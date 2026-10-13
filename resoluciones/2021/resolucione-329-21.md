@@ -1,0 +1,1018 @@
+---
+title: Res. No. 329-21 que aprueba el Contrato de Préstamo No. 5282/OC-DR, suscrito en 24 de junio de 2021, por un monto de US$100,000,000.00, para ser destinado al financiamiento del Programa de Rehabilitación y Ampliación del Puerto de Manzanillo
+identifier: Res. núm. 329-21
+type: resolution
+jurisdiction: do
+language: es
+date: '2021-10-11'
+gaceta_oficial: G. O. No. 11039
+status: unknown
+source: https://bibliotecadelcongreso.gob.do/gaceta/Gaceta_oficial_2021.pdf
+retrieved: '2026-10-13'
+---
+
+# Res. No. 329-21 que aprueba el Contrato de Préstamo No. 5282/OC-DR, suscrito en 24 de junio de 2021, por un monto de US$100,000,000.00, para ser destinado al financiamiento del Programa de Rehabilitación y Ampliación del Puerto de Manzanillo
+
+> Texto publicado en la Gaceta Oficial (G. O. No. 11039), según la compilación anual de la Biblioteca del Congreso Nacional; texto original, no consolidado.
+
+Res. No. 329-21 que aprueba el Contrato de Préstamo No. 5282/OC-DR, suscrito en 24 de junio de 2021, por un monto de US$100,000,000.00, para ser destinado al financiamiento del Programa de Rehabilitación y Ampliación del Puerto de Manzanillo. G. O. No. 11039 del 11 de octubre de 2021.
+
+EL CONGRESO NACIONAL En Nombre de la República Res. No. 329-21 Visto: El artículo 93, numeral 1), literal k) de la Constitución de la República;
+
+Visto: El contrato de préstamo No.5282/OC -DR suscrito el 24 de junio de 2021, entre la República Dominicana y el Banco Interamericano de Desarrollo (BID), por hasta un monto de cien millones de dólares de los Estados Unidos de América con 00/100 (US$100,000,000.00), para el financiamiento del Programa de Rehabilitación y Ampliación del Puerto de Manzanillo de la República Dominicana, a ser ejecutado por el Ministerio de Obras Públicas y Comunicaciones.
+
+RESUELVE:
+
+Único: Aprobar el contrato de préstamo No.5282/OC -DR suscrito el 24 de junio de 2021, entre la República Dominicana y el Banco Interamericano de Desarrollo (BID), por hasta un monto de cien millones de dólares de los Estados Unidos de América con 00/100 (US$100,000,000.00), para el financiamiento del Programa de Rehabilitación y Ampliación del Puerto de Manzanillo de la República Dominicana, a ser ejecutado por el Ministerio de Obras Públicas y Comunicaciones, que copiado a la letra dice de la manera siguiente: _________________________________________________________________________ Resolución DE-37/21 CONTRATO DE PRÉSTAMO No. 5282/OC-DR entre la REPÚBLICA DOMINICANA y el BANCO INTERAMERICANO DE DESARROLLO Programa de Rehabilitación y Ampliación del Puerto de Manzanillo 24_ de junio de 2021 ________________________________________________________________________ LEG/SGO/CID/EZSHARE-1818689733-7202 CONTRATO DE PRÉSTAMO ESTIPULACIONES ESPECIALES Este contrato de préstamo, en adelante el “Contrato”, se celebra entre la REPUBLICA DOMINICANA en adelante el “Prestatario”, y el BANCO INTERAMERICANO DE DESARROLLO, en adelante individualmente el “Banco” y, conjuntamente con el Prestatario, las “Partes”, el 24 de junio de 2021.
+
+Por solicitud del Prestatario, el presente contrato podrá ser incorporado en la Lista de Préstamos de Redireccionamiento Automático (LRA) incluida en el Apéndice I del Contrato de Préstamo Contingente para Emergencias por Desastres Naturales, número DR -X1003, suscrito entre el Prestatario y el Banco en fecha 18 de febrero de 2010 o sus modificaciones posteriores. Las disposiciones de este Contrato serán modificadas en consecuencia por cartaacuerdo que se perfeccionará mediante la suscripción por los representantes autorizados del Prestatario y del Banco.
+
+## CAPÍTULO I — Objeto y Elementos Integrantes del Contrato
+
+CLÁUSULA 1.01. Objeto del Contrato. El objeto de este Contrato es acordar los términos y condiciones en que el Banco otorg a un préstamo al Prestatario para contribuir a la financiación y ejecución del Programa de Rehabilitación y Ampliación del Puerto de Manzanillo cuyos aspectos principales se acuerdan en el Anexo Único.
+
+CLÁUSULA 1.02. Elementos Integrantes del Contrato. Este Contrato está integrado por estas Estipulaciones Especiales, por las Normas Generales y por el Anexo Único.
+
+## CAPÍTULO II — El Préstamo
+
+CLÁUSULA 2.01. Monto y Moneda de Aprobación del Préstamo . En los términos de este Contrato, el Banco se compromete a otorgar al Prestatario, y éste acepta, un préstamo hasta por el monto de cien millones de Dólares (US$100.000.000), en adelante, el “Préstamo”.
+
+CLÁUSULA 2.02. Solicitud de desembolsos y moneda de los desembolsos . (a) El Prestatario podrá solicitar al Banco desembolsos del Préstamo, de acuerdo con lo previsto en el Capítulo IV de las Normas Generales.
+
+(b) Todos los desembolsos se denominarán y efectuarán en Dólares, salvo en el caso en que el Prestatario opte por un desembolso denominado en una moneda distinta del Dólar, de acuerdo con lo establecido en el Capítulo V de las Normas Generales.
+
+CLÁUSULA 2.03. Disponibilidad de moneda. Si el Banco no tuviese acceso a la moneda solicitada por el Prestatario, el Banco, en acuerdo con el Prestatario, podrá efectuar el desembolso del Préstamo en otra moneda de su elección.
+
+CLÁUSULA 2.04. Plazo para desembolsos . El Plazo Original de Desembo lsos será de cinco (5) años contados a partir de la fecha de entrada en vigencia de este Contrato. El Plazo Original de Desembolsos podrá ser extendido por acuerdo escrito entre las Partes. Cualquier extensión del Plazo Original de Desembolsos estará sujeta a lo previsto en el Artículo 3.02(g) de las Normas Generales.
+
+CLÁUSULA 2.05. Cronograma de Amortización. (a) La Fecha Final de Amortización es el 15 de mayo de 2046. La VPP Original del Préstamo es de quince coma veintiuno (15,21) años.
+
+(b) El Prestata rio deberá amortizar el Préstamo mediante el pago de cuotas semestrales, de acuerdo con el siguiente Cronograma de Amortización:
+
+No. Cuota Fecha de Pago Porcentaje 1 15/11/2027 3.500% 2 15/05/2028 3.500% 3 15/11/2028 3.000% 4 15/05/2029 3.000% 5 15/11/2029 3.000% 6 15/05/2030 3.000% 7 15/11/2030 3.000% 8 15/05/2031 0.500% 9 15/11/2031 0.500% 10 15/05/2032 0.000% 11 15/11/2032 0.000% 12 15/05/2033 4.000% 13 15/11/2033 4.000% 14 15/05/2034 4.000% 15 15/11/2034 4.000% 16 15/05/2035 4.000% 17 15/11/2035 5.000% 18 15/05/2036 5.000% 19 15/11/2036 2.500% 20 15/05/2037 2.500% 21 15/11/2037 3.000% 22 15/05/2038 3.000% 23 15/11/2038 2.000% 24 15/05/2039 2.500% 25 15/11/2039 2.500% 26 15/05/2040 2.500% 27 15/11/2040 2.500% 28 15/05/2041 2.500% 29 15/11/2041 2.500% 30 15/05/2042 2.500% 31 15/11/2042 2.500% 32 15/05/2043 2.000% 33 15/11/2043 2.000% 34 15/05/2044 2.000% 35 15/11/2044 2.000% 36 15/05/2045 2.000% 37 15/11/2045 2.000% 38 15/05/2046 2.000% TOTAL 100.000%
+
+(c) Las Partes podrán acordar la modificación del Cronograma de Amortización del Préstamo de acuerdo con lo establecido en el Artículo 3.02 de las Normas Generales. CLÁUSULA 2.06. Intereses. (a) El Prestatario deberá pagar intereses sobre los Saldos Deudores diarios a una tasa que se determinará de conformidad con lo estipulado en el
+
+###### Artículo 3
+
+03 de las Normas Generales.
+
+(b) El Prestatario deberá pagar los intereses al Banco semestralmente el día quince
+
+(15) de los meses de mayo y noviembre de cada año. El primero de estos pagos se deberá realizar en la primera de dichas fechas que ocurra después de la fecha de entrada en vigencia del presente Contrato, de acuerdo con lo indicado en el Artíc ulo 3.01 de las Normas Generales.
+
+CLÁUSULA 2.07. Comisión de crédito . El Prestatario deberá pagar una comisión de crédito en las fechas establecidas en la Cláusula 2.06(b), de acuerdo con lo establecido en los Artículos 3.01, 3.04, 3.05 y 3.07 de las Normas Generales.
+
+CLÁUSULA 2.08. Recursos para inspección y vigilancia. El Prestatario no estará obligado a cubrir los gastos del Banco por concepto de inspección y vigilancia generales, salvo que el Banco establezca lo contrario de acuerdo con lo establecido en el Artículo 3.06 de las Normas Generales.
+
+CLÁUSULA 2.09. Conversión. El Prestatario podrá solicitar al Banco una Conversión de Moneda, una Conversión de Tasa de Interés y/o una Conversión de Productos Básicos en cualquier momento durante la vigencia del Contrato, de acuerdo con lo previsto en el Capítulo V de las Normas Generales.
+
+(a) Conversión de Moneda. El Prestatario podrá solicitar que un desembolso o la totalidad o una parte del Saldo Deudor sea convertido a una Moneda Principal o a una Moneda Local que el Banco pueda intermediar eficientemente, con las debidas consideraciones operativas y de manejo de riesgo. Se entenderá que cualquier desembolso denominado en Moneda Local constituirá una Conversión de Moneda aun cuando la Moneda de Aprobación sea dicha Moneda Local.
+
+(b) Conversión de Tasa de Interés. El Prestatario podrá solicitar, con respecto a la totalidad o una parte del Saldo Deudor, que la Tasa de Interés Basada en LIBOR sea convertida a una tasa fija de interés o cualquier otra opción de Conversión de Tasa de Interés solicitada por el Prestatario y aceptada por el Banco.
+
+(c) Conversión de Productos Básicos. El Prestatario podrá solicitar la contratación de una Opción de Venta de Productos Básicos o una Opción de Compra de Productos Básicos.
+
+## CAPÍTULO III — Desembolsos y Uso de Recursos del Préstamo
+
+CLÁUSULA 3.01. Condiciones especiales previas al primer desembolso . El primer desembolso de los recursos del Préstamo está condicionado a que se cumplan, a satisfacción del Banco, en adición a las condiciones previas estipuladas en el Artículo 4.01 de las Normas Generales, las siguientes:
+
+(a) Que se haya aprobado el Reglamento Operativo del Programa (ROP), que incluya: los flujos de trabajo y controles internos y los Planes de Gestión Ambiental y Social detallando los requisitos y procedimientos aplicables en la ejecución del Programa, en los términos previamente acordados con el Banco, y
+
+(b) Que se haya designado para la ejecución del Programa: (i) un coordinador técnico; (ii) un especialista en planificación; (iii) un especialista en adquisiciones; (iv) un especialista financiero; (v) un especialista portuario; (vi) un especialista ambiental; y (vii) un especialista social.
+
+CLÁUSULA 3.02. Condiciones especiales previas al primer desembolso de los recursos de los Componentes I, III y IV. El desembolso de los recursos del Préstamo destinado a los Componentes I, III, y IV está condicionado a que se cumpla, a satisfacción del Banco, en adición a las condiciones previas estipuladas en el Artículo 4.0 1 de las Normas Generales y en la Cláusula 3.01 anterior, la siguiente condición: que se haya suscrito un acuerdo interinstitucional entre la Autoridad Portuaria Dominicana (APORDOM) y el Ministerio de Obras Públicas y Comunicaciones (MOPC), en el que se establezcan las obligaciones de las Partes y los mecanismos de coordinación entre ambas instituciones.
+
+CLÁUSULA 3.03. Uso de los recursos del Préstamo . (a) Los recursos del Préstamo sólo podrán ser utilizados para pagar gastos que cumplan con los siguientes requisitos: (i) que sean necesarios para el Programa y estén en concordancia con los objetivos del mismo; (ii) que sean efectuados de acuerdo con las disposiciones de este Contrato y las políticas del Banco; (iii) que sean adecuadamente registrados y sustentados en los sistemas del Prestatario u Organismo Ejecutor; y (iv) que sean efectuados con posterioridad al 9 de junio de 2021 y antes del vencimiento del Plazo Original de Desembolso o sus extensiones. Dichos gastos se denominan, en adelante, “Gastos Elegibles”.
+
+(b) Sin perjuicio de lo dispuesto en el literal (a) de esta Cláusula, los gastos que cumplan con los requisitos de sus numerales (i) y (iii ), consistentes en consult orías individuales y firmas consultoras para realizar estudios técnicos así como compra de equipos y bienes previstos en el Componente III hasta por el equivalente de veinte millones de Dólares (US$20.000.000), podrán ser reconoci dos por el Banco como Gastos Elegibles siempre que hayan sido efectuados : (i) entre el 3 de enero de 2020 y el 9 de junio de 2021 pero en ningún caso se incluirán gastos efectuados más de dieciocho (18) meses antes de esta última fecha; y (ii) de acuerdo a condiciones sustancialmente análogas a las establecidas en este Contrato; y, siempre que los procedimien tos de contratación guarden conformidad con los Principios Básicos de Adquisiciones, en virtud de las Políticas de Adquisiciones y las Políticas de Consultores, como definidos en las Normas Generales.
+
+CLÁUSULA 3.04. Tasa de cambio para justificar gastos realizados en Moneda Local del país del Prestatario. Para efectos de lo estipulado en el Artículo 4.10 de las Normas Generales, las Partes acuerdan que la tasa de cambio aplicable será la indicada en el inciso (b)(i) de dicho Artículo. Para efectos de determinar la equivalencia de gastos incurridos en Moneda Local con cargo al Aporte Local o del reembolso de gastos con cargo al Préstamo, la tasa de cambio acordada será la tasa de cambio en la fecha efectiva en que el Prestatario, el Organismo Ejecutor o cualquier otra persona natural o jurídica a quien se le haya delegado la facultad de efectuar gastos, efectúe los pagos respectivos en favor del contratist a, proveedor o beneficiario.
+
+## CAPÍTULO IV — Ejecución del Programa
+
+CLÁUSULA 4.01. Organismo Ejecutor . El Prestatario, actuando por intermedio del Ministerio de Obras Públicas y Comunicaciones (MOPC), será el Organismo Ejecutor de Programa.
+
+CLÁUSULA 4.02. Contratación de obras y servicios diferentes de Consultoria y adquisición de bienes. (a) Para efectos de lo dispuesto en el Artículo 2.01(64) de las Normas Generales, las Partes dejan constancia que las Políticas de Adquisiciones son las fec hadas mayo de 2019, que están recogidas en el documento GN-2349-15, aprobado por el Banco el 2 de julio de 2019. Si las Políticas de Adquisiciones fueran modificadas por el Banco, la contratación de obras y servicios diferentes de consultoría y la adquisic ión de bienes serán llevadas a cabo de acuerdo con las disposiciones de las Políticas de Adquisiciones modificadas, una vez que estas sean puestas en conocimiento del Prestatario y el Prestatario acepte por escrito su aplicación.
+
+(b) Para la contratación de obras y servicios diferentes de consultoría y la adquisición de bienes, se podrá utilizar cualquiera de los métodos descritos en las Políticas de Adquisiciones, que dicho método haya sido identificado para la respectiva adquisición o contratación en el Plan de Adquisiciones aprobado por el Banco. La utilización de las normas, procedimientos y sistemas de adquisiciones del Prestatario o de una entidad del Prestatario se sujetará a lo dispuesto en el párrafo 3.2 de las Políticas de Adquisiciones y en el Artículo 6.04(b) de las Normas Generales.
+
+(c) El umbral que determina el uso de la licitación pública internacional, será puesto a disposición del Prestatario o, en su caso, del Organismo Ejecutor, en la página https://proyectprocurement.iadb.org/es. Por debajo de dicho umbral, el método de selección se determinará de acuerdo con la complejidad y características de la adquisición o contratación, lo cual deberá reflejarse en el Plan de Adquisiciones aprobado por el Banco.
+
+(d) En lo que se refiere al método de licitación pública nacional, los procedimientos de licitación pública nacional respectivos podrán ser utilizados siempre que, a juicio del Banco, dichos procedimientos sean consistentes con los Principios Básicos de Adquisiciones y sean compatibles de manera general con la Sección I de las Políticas de Adquisiciones y tomando en cuenta, entre otros, lo dispuesto en el párrafo 3.4 de dichas Políticas.
+
+(e) En lo que se refiere a la utilización del método de licitación pública nacional, éste podrá ser utilizado siempre que las contrataciones o adquisiciones se lleven a cabo de conformidad con el documento o documentos de licitación acordados entre el Organismo Ejecutor y el Banco.
+
+(f) El Prestatario se compromete a obtener o, en su caso, a que el Organismo Ejecutor obtenga, antes de la adjudicación del contrato correspondiente a cada una de las obras del Programa la posesión legal de los inmuebles donde se construirá la respectiva obra, la s servidumbres u otros derechos necesarios para su construcción y utilización, así como los derechos sobre las aguas que se requieran para la obra de que se trate.
+
+CLÁUSULA 4.03. Selección y contratación de servicios de Consultoría. (a) Para efectos de lo dispuesto en el Artículo 2.01(65) de las Normas Generales, las Partes dejan constancia que las Políticas de Consultores son las fechadas mayo de 2019, que están recogidas en el documento GN- 2350-15, aprobado por el Banco el 2 de ju lio de 2019. Si las Políticas de Consultores fueran modificadas por el Banco, la selección y contratación de servicios de Consultoria serán llevadas a cabo de acuerdo con las disposiciones de las Políticas de Consultores modificadas, una vez que éstas sean puestas en conocimiento del Prestatario y el Prestatario acepte por escrito su aplicación.
+
+(b) Para la selección y contratación de servicios de Consultor ía, se podrá utilizar cualquiera de los métodos descritos en las Políticas de Consultores, siempre q ue dicho método haya sido identificado para la respectiva contratación en el Plan de Adquisiciones aprobado por el Banco. La utilización de las normas, procedimientos y sistemas de adquisiciones del Prestatario o de una entidad del Prestatario se sujetará a lo dispuesto en el párrafo 3.2 de las Políticas de Consultores y en el Artículo 6.04(b) de las Normas Generales.
+
+(c) El umbral que determina la integración de la lista corta con consultores internacionales será puesto a disposición del Prestatario o, e n su caso, del Organismo Ejecutor, en la página https://projectprocurement.iadb.org/es. Por debajo de dicho umbral, la lista corta podrá estar íntegramente compuesta por consultores nacionales del país del Prestatario.
+
+CLÁUSULA 4.04. Actualización del Plan de Adquisiciones. Para la actualización del Plan de Adquisiciones de conformidad con lo dispuesto en el Artículo 6.04(c) de las Normas Generales, el Prestatario deberá utilizar o, en su caso, hacer que el Organismo Ejecutor utilice, el sistema de ejecución y seguimiento de planes de adquisiciones que determine el Banco.
+
+CLÁUSULA 4.05. Gestión Ambiental y Social. Para efectos de lo dispuesto en los Artículos 6.06 y 7.02 de las Normas Generales, las Partes convienen que la ejecución del Programa se regirá por las siguientes disposiciones que se han identificado como necesarias para el cumplimiento de los compromisos ambientales y sociales del Programa:
+
+(a) El Organismo Ejecutor acuerda diseñar, construir, operar, mantener y monitorear el Programa y administrar los riesgos ambientales y sociales de las Instalaciones Asociadas del Programa directamente o a través del Organismo Ejecutor o a través de cualquier otro contratista, operador o cualquier otra persona que realice actividades relacionadas con el Programa, de acuerdo con las disposiciones ambientales, sociales, de salud ocupacional previstas en el Reglamento Operativo del Programa (“ROP”), los Estudios de Impacto Ambiental y Social (“EIAS”) del Programa, los Planes de Gestión Ambientales y Sociales aprobado para el Programa (“PGAS”), y otros planes ambientales, sociales y de salud ocupacional, de haberlos.
+
+(b) Seis (6) meses antes del inicio de la etapa de construcción de las obras comprendidas en el Programa, el Organismo Ejecutor presentará evidencia de la designación de un equipo de gestión socio ambiental que incluya como mínimo: (i) un coordinador; (ii) un especialista ambiental; (iii) un especialista social; y (iv) un especialista de salud y seguridad ocupacional. Estos especialistas trabajarán durante la ejecución de las obras del Programa, serán seleccionados de conformidad con los perfiles que son parte del Reglamento Operativo del Programa y deberán ser aprobados previamente por el Banco.
+
+(c) Antes de la firma del acta de inicio de cada una de las obras previstas en el Programa, y de acuerdo a las necesidades de los componentes I y II, el Organismo Ejecutor contratará, acordando el alcance previamente con el Banco, los servicios de Consultoria ambiental y social necesarios para el apoyo técnico mencionado en el Plan de Gestión Ambiental y Social (PGAS) del programa, especialmente los procesos de monitoreo, levantamiento de línea base y cualquier otro asunto relevante que fortalezca la capacidad operativa del Equipo Ambiental y Social de la Unidad Ejecutora de Proyectos Financiados con Recursos Externos (UEPFRE).
+
+(d) El Organismo Ejecutor deberá: (i) incluir en los documentos de licitación para las obras, el requerimiento de que los contratistas presenten unos planes operativos de gestión ambiental y social para la construcción (Plan de Control Ambiental de la Construcción) que sean consistentes con los PGAS y que harán parte de dichos documentos de licitación: y (ii) obtener los permisos y/o autorizaciones ambientales necesarias previo al inicio de cualquier obra.
+
+(e) Durante la etapa de preconstrucción de las obras, el Organismo Ejecutor deberá presentar evidencia al Banco de que los componentes de los PGAS aplicables desarrollados por los contratista a la fase de construcción (incluyendo los planes operativos de gestión ambiental para los contratistas, los planes de gestión social, los planes de seguridad y salud para los trabajadores y la comunidad, los programas de monitoreo) se h ayan completado en sus versiones operativas, de forma consistente con los PGAS, en los términos acordados con el Banco.
+
+(f) Seis (6) meses antes del inicio de la etapa de operación del Programa, el Organismo Ejecutor deberá presentar evidencia de que los componentes de los PGAS aplicables a la fase de operación (incluyendo los planes operativos de gestión ambiental para los contratistas, los planes de gestión social, los planes de seguridad y salud para los trabajadores y la comunidad, los programas de mo nitoreo, los programas de compensación, si fuesen aplicables) se hayan desarrollado y completado en sus versiones operativas, de forma consistente con los PGAS, en los términos acordados con el Banco.
+
+(g) El Organismo Ejecutor deberá: (i) implementar proc esos de participación con las partes interesadas en las obras previstas en el Programa para garantizar que l as comunidades afectadas sean informadas y consultadas sobre el avance de las obras y la gestión socioambiental del Programa, y tener acceso a los m ecanismos de resolución de conflictos; y (ii) divulgar cualquier evaluación y plan de gestión socioambiental relacionado con las obras.
+
+(h) El Organismo Ejecutor deberá: (i) elaborar un protocolo de información adecuado con las autoridades de Haití sobre los impactos transfronterizos identificados en el EIAS y presentarlo al Banco, para su no objeción, antes de iniciar las obras d el Puerto de Manzanillo previstas en el Programa; y (ii) presentar a las autoridades de Haití, de conformidad con el protocolo de comunicación elaborado, los resultados de los planes de monitoreo ambientales y sociales (referidos a los impactos transfronterizos identificados en el EIAS) y la información sobre los avances de las obras del Puerto de Manzanillo que financia el Progra ma, semestralmente durante el plazo de desembolso del Préstamo y hasta dos (2) años después del vencimiento del Período de Cierre del Programa, y
+
+(i) El Prestatario deberá preparar y presentar a satisfacción del Banco, un Informe de Cumplimiento Ambiental, Social y de Salud y Seguridad, en la forma y contenido acordados con el Banco como parte del informe semestral de progreso, a que se refiere la Cláusula 5.01 (c) de estas Estipulaciones Especiales, y semestralmente hasta dos (2) años después de que se co mplete la construcción y se inicie la operación de las infraestructuras. Dichos Informes de Cumplimiento Ambiental, Social y de Salud y Seguridad semestrales deberán ser publicados en la página web del Prestatario.
+
+CLÁUSULA 4.06. Mantenimiento. El Prestatario se compromete a que las obras y equipos comprendidos en el Programa sean mantenidos adecuadamente, por intermedio del Organismo Ejecutor, de acuerdo con normas técnicas generalmente aceptadas. El Prestatario deberá pres entar al Banco, por i ntermedio del Organismo Ejecutor: (a) un plan anual de mantenimiento; y (b) durante los dos (2) años siguientes a la terminación de la primera de las obras del Programa y, dentro del primer trimestre de cada año calendario, un informe sobre el estado de dichas obras y equipos y el plan anual de mantenimiento para ese año. Si de las inspecciones que realice el Banco, o de los informes que reciba, se determina que el mantenimiento se efectúa por debajo de los niveles convenidos, el Prestatario deberá adoptar las medidas necesarias para que se corrijan totalmente las deficiencias. CLÁUSULA 4.07. Otras obligaciones especiales de ejecución . Previo al inicio de la fase de operación del puerto de Manzanillo, se habrá aprobado la reglamentación para la administración y operación para la terminal logística de Manzanillo bajo el modelo landlord.
+
+## CAPÍTULO V — Supervisión y Evaluación del Programa
+
+CLÁUSULA 5.01. Supervisión de la ejecución del Programa. Para efectos de lo dispuesto en el Artículo 7.02 de las Normas Generales, los documentos que, a la fecha de suscripción de este Contrato, se han identificado como necesarios para supervisar el progreso en la ejecución del Programa son:
+
+(a) Plan de Ejecuc ión Plurianual del Programa (PEP), que deberá comprender la planificación completa del Programa, de conformidad con la estructura de los productos esperados según la Matriz de Resultados del Programa, y la ruta crítica de hitos o acciones críticas que debe rán ser ejecutadas para que el Préstamo sea desembolsado en el plazo previsto en este Contrato. El PEP deberá ser actualizado cuando fuere necesario, en especial, cuando se produzcan cambios significativos que impliquen o pudiesen implicar demoras en la ejecución del Programa o cambios en las metas de producto de los períodos intermedios.
+
+(b) Planes Operativos Anuales (POA), que serán elaborados a partir del PEP y contendrán la planificación operativa detallada de cada período anual.
+
+(c) Informes semestrales de progreso, que serán presentados al Banco dentro de los sesenta (60) días siguientes a cada Semestre, e incluirán los resultados y productos alcanzados en la ejecución del POA, del Plan de Adquisiciones y de la Matriz de Resultados del Programa, el informe de ejecución financiera, así como los Informes Ambientales, Sociales y de Salud y Seguridad Ocupacional, descritos en el Plan de Gestión Ambiental y Social del Programa (PGAS). El Prestatario se compromete a participar, por intermedio del Or ganismo Ejecutor, en reuniones de evaluación conjunta con el Banco, a realizarse dentro de los cuarenta y cinco (45) días siguientes a la recepción de dichos informes. El informe correspondiente al segundo semestre de cada año comprenderá la propuesta de P OA para el año siguiente, mismo que deberá ser acordado con el Banco en la reunión de evaluación conjunta correspondiente.
+
+CLÁUSULA 5.02. Supervisión de la gestión financiera del Programa. (a) Para efectos de lo establecido en el Artículo 7.03 de las Norm as Generales, los informes de auditoría financiera externa y otros informes que, a la fecha de suscripción de este Contrato, se han identificado como necesarios para supervisar la gestión financiera del Programa, son: (a) Estados financieros anuales audita dos del Programa y uno final, a ser presentados en las fechas establecidas en el Artículo 7.03 referido.
+
+(b) Para efectos de lo dispuesto en el Artículo 7.03(a) de las Normas Generales, el ejercicio fiscal del Programa es el período comprendido entre 1 d e enero y 31 de diciembre de cada año.
+
+CLÁUSULA 5.03. Evaluación de resultados. El Prestatario se compromete a presentar o, en su caso, a que el Organismo Ejecutor presente, al Banco, la siguiente información para determinar el grado de cumplimiento del objetivo del Programa y sus resultados:
+
+(a) Dentro del plazo de seis (6) meses contados a partir de la vigencia del presente Contrato: (i) los datos básicos iniciales, cuyas categorías se señalan en la Matriz de Resultados del Programa; y (ii) la descripción del procedimiento que se utilizará para compilar y procesar los datos anuales que deban ser comparados con los datos básicos iniciales para evaluar los resultados del Programa;
+
+(b) A partir del primer semestre contado desde la fecha de vigencia del presente Contrato y semestralmente hasta un (1) año después del último desembolso del Préstamo, los datos comparativos anuales mencionados en el inciso (a) precedente.
+
+(c) Una vez que se haya desembolsado el noventa por ciento (90 %) de los recursos del Préstamo, un informe de evaluación final ex post sobre los resultados del Programa, con base en la metodología y de conformidad con las pautas acordadas con el Banco. La meto dología de evaluación incluirá al menos: (i) un análisis de costo - beneficio ex post, bajo la misma metodología del análisis ex ante, e incluirá la comparación de los resultados a efecto de verificar los parámetros considerados, todo conforme a lo detallado en el Plan de Monitoreo y Evaluación del Programa.
+
+## CAPÍTULO VI — Disposiciones Varias
+
+CLÁUSULA 6.01. Vigencia del Contrato. (a) Este Contrato entrará en vigencia en la fecha en que, de acuerdo con las normas de República Dominicana adquiera plena validez jurídica.
+
+(b) Si en el plazo de un (1) año contado a partir de la fecha de suscripción de este Contrato, éste no hubiere entrado en vigencia, todas las disposiciones, ofertas y expectativas de derecho en él contenidas se reputarán inexistentes para tod os los efectos legales sin necesidad de notificaciones y, por lo tanto, no habrá lugar a responsabilidad para ninguna de las Partes El Prestatario se obliga a notificar por escrito al Banco la fecha de entrada en vigencia, acompañando la documentación que así lo acredite.
+
+CLÁUSULA 6.02. Comunicaciones y Notificaciones. (a) Todos los avisos, solicitudes , comunicaciones o informes que las Partes deban realizar en virtud de este Contrato en relación con la ejecución del Programa, con excepción de las notificaciones mencionadas en el siguiente literal (b), se efectuarán por escrito y se considerarán realizados desde el momento en que el documento correspondiente sea recibido por el destinatario en la respectiva dirección que enseguida se anota o por medios elec trónicos en los términos y condiciones que el Banco establezca e informe al Prestatario, a menos que las Partes acuerden por escrito otra manera.
+
+Del Prestatario:
+
+Dirección postal:
+
+Ministerio de Hacienda Av. México No. 45 Gazcue Santo Domingo, Distrito Nacional República Dominicana Del Banco:
+
+Dirección postal:
+
+Banco Interamericano de Desarrollo Representación del Banco en República Dominicana Calle Cesar Nicolás Penson esquina Leopoldo Navarro, Gazcue Santo Domingo, Distrito Nacional República Dominicana Correo electrónico: biddominicana@iadb.org
+
+(b) Cualquier notificación que las Partes deban realizar en virtud de este Contrato sobre asuntos distintos a aquéllos relacionados con la ejecución del Programa, incluyendo las solicitudes de desembolsos, deberá realizarse por escrito y ser enviada por correo certificado, correo electrónico o facsímil, dirigido a su destinatario a cualquiera de las direcciones que enseguida se anotan y se considerarán realizados desde el momento en que la notificación correspondiente sea recibida por el destinatario en la respectiva dirección, o por medios electrónicos en los términos y condiciones que el Banco establezca e informe al Prestatario., a menos que las Partes acuerden por escrito otra manera de notificación. Del Prestatario:
+
+Dirección postal:
+
+Ministerio de Hacienda Av. México No. 45 Gazcue Santo Domingo, Distrito Nacional República Dominicana Del Banco:
+
+Dirección postal:
+
+Banco Interamericano de Desarrollo 1300 New York Avenue, N.W.
+
+Washington, D.C. 20577 EE.UU.
+
+Facsímil: (202) 623-3096 CLÁUSULA 6.03. Cláusula Compromisoria. Para la solución de toda controversia que se derive o esté relacionada con el presente Contrato y que no se resuelva por acuerdo entre las Partes, éstas se someten incondicional e irrevocablemente al procedimiento y fallo del Tribunal de Arbitraje a que se refiere el Capítulo XII de las Normas Generales. EN FE DE LO CUAL , el Prestatario y el Banco, actuando cada uno por medio de su representante autorizado, suscriben este Contrato en dos (2) ejemplares de igual tenor en Santo Domingo, República Dominicana, el día arriba indicado.
+
+REPÚBLICA DOMINICANA BANCO INTERAMERICANO DE DESARROLLO _______________________ _____________________________ José Manuel Vicente Dubocq Miguel Coronado Hunter Ministro de Hacienda Representante del Banco en República Dominicana LEG/SGO/CID/EZSHARE-1818689733-7203 CONTRATO DE PRÉSTAMO NORMAS GENERALES Enero 2020
+
+## CAPÍTULO I — Aplicación e Interpretación
+
+###### Artículo 1
+
+01. Aplicación de las Normas Generales . Estas Normas Generales son aplicables, de manera uniforme, a los contratos de préstamo para el financiamiento de proyectos de inversión con recursos del capital ordinario del Banco, que este último celebre con sus países miembros o con otros prestatarios que, para los efectos del respectivo contrato de préstamo, cuenten con la garantía de un país miembro del Banco.
+
+###### Artículo 1
+
+02. Interpretación. (a) Inconsistencia. En caso de contradicción o inconsistencia entre las disposiciones de las Estipulaciones Esp eciales, cualquier anexo del Contrato y el o los Contratos de Garantía, si los hubiere, y estas. Normas Generales, las disposiciones de aquéllos prevalecerán sobre las disposiciones de estas Normas Generales. Si la contradicción o inconsistencia existiere entre disposiciones de un mismo element o de este Contrato o entre las disposiciones de las Estipulaciones Especiales, cualquier anexo del Contrato y el o los Contratos de Garantía, si los hubiere, la disposición específica prevalecerá sobre la general.
+
+(b) Títulos y Subtítulos. Cualquier título o subtítulo de los capítulos, artículos, cláusulas u otras secciones de este Contrato se incluyen sólo a manera de refe rencia y no deben ser tomados en cuenta en la interpretación de este Contrato.
+
+(c) Plazos. Salvo que el Contrato disponga lo contrario, los plazos de días, meses o años se entenderán de días, meses o años calendario.
+
+## CAPÍTULO II — Definiciones
+
+###### Artículo 2
+
+01. Definiciones. Cuando los siguientes términos se utilicen con mayúscula en este Contrato o en el (o los) Contrato(s) de Garantía, si lo(s) hubiere, éstos tendrán el significado que se les asigna a continuación. Cualquier referencia al singular incluye el plural y viceversa. Cualquier término que figure en mayúsculas en el numeral 78 de este Artículo 2.01 y que no esté definido de alguna manera en ese literal, tendrá el mismo significado que le haya sido asignado en las Definiciones de ISDA de 2006, según la publicación d el International Swaps and Derivatives Association, Inc. (Asociación Internacional de Operaciones de Permuta Financiera e Instrumentos Derivados), en sus versiones modificadas y complementadas, las cuales se incorporan en este Contrato por referencia.
+
+1. “Agencia de Contrataciones ” significa la entidad con capacidad legal para suscribir contratos y que, mediante acuerdo con el Prestatario o, en su caso, el Organismo Ejecutor, asume, en todo o en parte, la responsabilidad de llevar a cabo las adquisiciones de bienes o las contratacio nes de obras, servicios de consultoría o servicios diferentes de consultoría del Proyecto.
+
+2. “Agente de Cálculo ”' significa el Banco, con excepción de la utilización de dicho término en la definición de Tasa de Interés LIBOR, en cuyo caso tendrá el signi ficado asignado a dicho término en las Definiciones de ISDA de 2006, según la publicación del International Swaps and Derivatives Association, Inc. (Asociación Internacional de Operaciones de Permuta Financiera e Instrumentos Derivados), en sus versiones modificadas y complementadas. Todas las determinaciones efectuadas por el Agente de Cálculo tendrán un carácter final, concluyente y obligatorio para las Partes (salvo error manifiesto) y, de ser hechas por el Banco en calidad de Agente de Cálculo, se efectuarán mediante justificación documentada, de buena fe y en forma comercialmente razonable.
+
+3. “Anticipo de Fondos” significa el monto de recursos adelantados por el Banco al Prestatario, con cargo al Préstamo, para atender Gastos Elegibles del Proyecto, de conformidad con lo establecido en el Artículo 4.07 de estas Normas Generales.
+
+4. “Aporte Local” significa los recursos adicionales a los financiados por el Banco, que resulten necesarios para la completa e ininterrumpida ejecución del Proyecto.
+
+5. “Banco” tendrá el significado que se le asigne en las Estipulaciones Especiales de este Contrato.
+
+6. “Banda {collar) de Tasa de Interés” significa el establecimiento de un límite superior y un límite inferior para una tasa variable de interés.
+
+7. “Cantidad Nocional” significa, con respecto a una Conversión de Productos Básicos, el número de unidades del producto básico subyacente.
+
+8. “Carta Notificación de Conversión” significa la notificación por medio de la cual el Banco comunica al Prestatario los términ os y condiciones financieros en que una Conversión ha sido efectuada de acuerdo con la Carta Solicitud de Conversión enviada por el Prestatario.
+
+9. “Carta Notificación de Modificación de Cronograma de Amortización” significa la notificación por medio de l a cual el Banco da respuesta a una Carta Solicitud de Modificación de Cronograma de Amortización.
+
+10. “Carta Solicitud de Conversión” significa la notificación irrevocable por medio de la cual el Prestatario solicita al Banco una Conversión, de acuerdo co n lo establecido en el Artículo 5.01 de estas Normas Generales. 11 “Carta Solicitud de Modificación de Cronograma de Amortización” significa la notificación irrevocable por medio de la cual el Prestatario solicita al Banco una modificación al Cronograma de Amortización.
+
+12. “Contrato” significa este contrato de préstamo.
+
+13. "Contrato de Derivados ” significa cualquier contrato suscrito entre el Banco y el Prestatario o entre el Banco y el Garante para documentar y/o confirmar una o más transacciones de derivados acordadas entre el Banco y el Prestatario o entre el Banco y el Garante y sus modificaciones posteriores. Son parte integrante de los Contratos de Derivados todos los anexos y demás acuerdos suplementarios a los mismos.
+
+14. “Contrato de Garantía” significa, si lo hubiere, el contrato en virtud del cual se garantiza el cumplimiento de todas o algunas de las obligaciones que contrae el Prestatario bajo este Contrato y en el que el Garante asume otras obligaciones que quedan a su cargo.
+
+15. “Converción para el Cálculo de Intereses" significa la converción para el conteo de días utilizada para el cálculo del pago de intereses, la cual se establece en la Carta Notificación de Conversión.
+
+16. “Conversión” significa una modificación de los términos de la totalidad o una parte del Préstamo solicitada por el Prestatario y aceptada por el Banco, en los términos de este Contrato y podrá ser: (i) una Conversión de Moneda; (ii) una Conversión de Tasa de Interés; o (iii) una Conversión de Productos Básicos.
+
+17. “Conversión de Moneda” significa, con respecto a un desembolso o a la totalidad o a una parte del Saldo Deudor, el cambio de moneda de denominación a una Moneda Local o a una Moneda Principal.
+
+18. “Conversión de Moneda por Plazo Parc ial" significa una Conversión de Moneda por un Plazo de Conversión inferior al plazo previsto en el Cronograma de Amortización solicitado para dicha Conversión de Moneda, según lo previsto en el Artículo 5.03 de estas Normas Generales.
+
+19. “Conversión de Moneda por Plazo Total” significa una Conversión de Moneda por un Plazo de Conversión igual al plazo previsto en el Cronograma de Amortización solicitado para dicha Conversión de Moneda, según 1o previsto en el Artículo 5.03 de estas Normas Generales.
+
+20. “Conversión de Productos Básicos” significa, con respecto a todo o parte de un Saldo Deudor Requerido, la contratación de una Opción de Venta de Productos Básicos o de una Opción de Compra de Productos Básicos de conformidad con lo establecido en el
+
+###### Artículo 5
+
+01 de estas Normas Generales.
+
+21. “Conversión de Productos Básicos por Plazo Parcial” significa una Conversión de Productos Básicos cuya Fecha de Vencimiento de Conversión de Productos Básicos es anterior a la Fecha Final de Amortización.
+
+22. “Conversión de Productos Básicos por Plazo Total” significa una Conversión de Productos Básicos cuya Fecha de Vencimiento de Conversión de Productos Básicos coincide con la Fecha Final de Amortización.
+
+23. “Conversión de Tasa de Interés” significa (i) el cambio del tipo de tasa de interés con respecto a la totalidad o a una parte del Saldo Deudor; o (ii) el establecimiento de un Tope (cap) de Tasa de Interés o una Banda (collar) de Tasa de Interés con respecto a la totalidad o una parte del Saldo Deudor; o (iii) cualquier otra opción de cobertura (hedging) que afecte la tasa de interés aplicable a la totalidad o a una parte del Saldo Deudor.
+
+24. “Conversión de Tasa de Interés por Plazo Parcial” significa una Conversión de Tasa de Interés por un Plazo de Co nversión inferior al plazo previsto en el Cronograma de Amortización solicitado para dicha Conversión de Tasa de Interés, según lo previsto en el Artículo 5.04 de estas Normas Generales.
+
+25. “Conversión de Tasa de Interés por Plazo Total” significa una Co nversión de Tasa de Interés por un Plazo de Conversión igual al plazo previsto en el Cronograma de Amortización solicitado para la Conversión de Tasa de Interés, según lo previsto en el
+
+###### Artículo 5
+
+04 de estas Normas Generales.
+
+26. “Costo de Fondeo del Banco” significa un margen de costo calculado trimestralmente sobre la Tasa de Interés L IBOR en Dólares a tres (3) meses, con base en el promedio ponderado del costo de los instrumentos de fondeo del Banco aplicables a la Facilidad de Financiamiento Flexib le, expresado en términos de un porcentaje anual, según lo determine el Banco.
+
+27. “Cronograma de Amortización” significa el Cronograma original establecido en las Estipulaciones Especiales para el pago de las cuotas de amortización del Préstamo o el Cronograma o cronogramas que resulten de modificaciones acordadas entre las Partes de conformidad con lo previsto en el Artículo 3.02 de estas Normas Generales.
+
+28. “Día Hábil” significa un día en que los bancos comerciales y los mercados cambiarios efectúen liquidaciones de pagos y estén abiertos para negocios generales (incluidas transacciones cambiarías y transacciones de depósitos en moneda extranjera) en la ciudad de Nueva York o, en el caso de una Conversión, en las ciudades indicadas en la Carta Notificación de Conversión.
+
+29. “Directorio” significa el Directorio Ejecutivo del Banco. 30 “Dólar” significa la moneda de curso legal en los Estados Unidos de América.
+
+31. “Estipulaciones Especiales” significa el conjunto de cláusulas que componen la primera parte de este Contrato.
+
+32. “Facilidad de Financiamiento Flexible” significa la plataforma financiera que el Banco utiliza para efectuar Préstamos con garantía soberana con cargo al capital ordinario del Banco.
+
+33. “Fecha de Conversión” significa la Fecha de Conversión de Moneda, la Fecha de Conversión de Tasa de Interés o la Fecha de Conversión de Productos Básicos, según el caso.
+
+34. “Fecha de Conversión de Moneda” significa, en relación con Conversiones de Moneda para nuevos desembolsos, la fecha efectiva en la cual el Banco efectúa el desembolso y para las Conversiones de Moneda de Saldos Deudores, la fecha en que se redenomina la deuda. Estas fechas se establecerán en la Carta Notificación de Conversión.
+
+35. “Fecha de Conversión de Productos Básicos” significa la techa de contratación de una Conversión de Productos Básicos. Esta fecha se establecerá en la Carta Notificación de Conversión.
+
+36. “Fecha de Conversión de Tasa de Interés” significa la fecha efectiva de la Conversión de Tasa de Inter és a partir de la cual aplicará la nueva tasa de interés. Esta fecha se establecerá en la Carta Notificación de Conversión.
+
+37. “Fecha de Determinación de la Tasa de Interés Basada en LIBOR para cada Trimestre significa el día 15 de los meses de enero, abril, julio y octubre de cada año calendario. La Tasa de Interés Basada en L IBOR, determinada por el Banco en una Fecha de Determinación de la Tasa de Interés Basada en LIBOR para cada Trimestre, será aplicada retroactivamente a los primeros quince (15) d ías del Trimestre respectivo y continuará siendo aplicada durante y hasta el último día del Trimestre.
+
+38. “Fecha de Liquidación de Conversión de Productos Básicos” significa, con respecto a una Conversión de Productos Básicos, la fecha en que el Monto de Liquidación en Efectivo de dicha conversión debe ser pagado, la cual ocurrirá a los cinco (5) Días Hábiles posteriores a una Fecha de Vencimiento de Conversión de Productos Básicos salvo que las Partes acuerden una fecha distinta especificada en la Carta Notificación de Conversión.
+
+39. “Fecha de Valuación de Pago” significa la fecha que se determina con base en un cierto número de Días Hábiles bancarios antes de cualquier fecha de pago de cuotas de amortización o intereses, según se especifique en una Ca rta Notificación de Conversión.
+
+40. “Fecha de Vencimiento de Conversión de Productos Básicos” significa el Día Hábil en el cual vence la Opción de Productos Básicos. Esta fecha se establecerá en la Carta de Conversión.
+
+41. “Fecha Final de Amortización” significa la última fecha de amortización del Préstamo de acuerdo con lo previsto en las Estipulaciones Especiales.
+
+42. “Garante” significa el país miembro del Banco y ente sub -nacional del mismo, de haberlo, que suscribe el Contrato de Garantía con el Banco.
+
+43. “Gasto Elegible” tendrá el significado que se le asigne en las Estipulaciones Especiales de este Contrato.
+
+44. “Índice del Producto Básico Subyacente” significa un índice publicado del precio del producto básico subyacente sujeto de una Opción de Productos Básicos. La fuente y cálculo del índice del Producto Básico Subyacente se establecerán en la Carta Notificación de Conversión. Si el Índice del Producto Básico Subyacente relacionado con un producto básico (i) no es calculado ni anunciado por su patrocinador vigente en la Fecha de Conversión de Productos Básicos, pero es calculado y anunciado por un patrocinador sucesor aceptable para el Agente de Cálculo, o (ii) es reemplazado por un índice sucesor que utiliza, en la determinación del Agente de Cálculo, la misma fórmula o un método de cálculo sustancialmente similar al utilizado en el cálculo del índice del Producto Básico Subyacente, entonces, el respectivo índice será, en cada caso, el índice del Producto Básico Subyacente.
+
+45. “Moneda Convertida” significa cualquier Moneda Local o Moneda Principal en la que se denomina la totalidad o una parte del Préstamo tras la ejecución de una Conversión de Moneda.
+
+46. “Moneda de Aprobación” significa la moneda en la que el Banco aprueba el Préstamo, que puede ser Dólares o cualquier Moneda Local.
+
+47. “Moneda de Liquidación” significa la moneda utilizada en el Préstamo para liquidar pagos de capital e intereses. Para el caso de monedas de libre convertibilidad ( fully deliverable), la Moneda de Liquidación será la Moneda Convertida. Para el caso de monedas que no son de libre convertibilidad ( non-deliverable), la Moneda de Liquidación será el Dólar.
+
+48. “Moneda Local” significa cualquier moneda de curso legal distinta al Dólar en los países de Latinoamérica y el Caribe.
+
+49. “Moneda Principal” significa cualquier moneda de curso legal en los países miembros del Banco que no sea Dólar o Moneda Local.
+
+50. “Monto de Liquidación en Efectivo” tendrá el significado que se le asigna en los Artículos 5.11 (b), (c) y (d) de estas Normas Generales.
+
+51. “Normas Generales” significa el conjunto de artículos que componen esta segunda parte del Contrato.
+
+52. “Opción de Compra de Productos Básicos” significa, con respecto a todo o parte de un Saldo Deudor Requerido, una opción de compra a ser liquidada en efectivo ejercitable por el Prestatario de conformidad con lo establecido en el Artículo 5.11 de estas Normas Generales.
+
+53. “Opción de Productos Básicos” tendrá el significado que se le asigna en el Artículo 5.11(a) de estas Normas Generales.
+
+54. “Opción de Venta de Productos Básicos” significa, con respecto a todo o parte de un Saldo Deudor Requerido, una opción de venta a ser liquidada en efectivo ejercitable por el Prestatario de conformidad con lo establecido en el Artículo 5.11 de estas Normas Generales.
+
+55. “Organismo Contratante” significa la entidad con capacidad legal para suscribir el contrato de adquisición de bienes, contrato de obras, de consultoría y servicios diferentes de consultoria con el contratista, proveedor y la firma consultora o el consultor individual, según sea el caso.
+
+56. “Organismo Ejecutor” significa la entidad con personería jurídica responsable de la ejecución del Proyecto y de la utilización de los recursos del Prést amo. Cuando exista más de un Organismo Ejecutor, éstos serán co -ejecutores y se les denominará indistintamente. “Organismos Ejecutores” u “Organismos Co-Ejecutores”.
+
+57. “Partes” tendrá el significado que se le asigna en el preámbulo de las Estipulaciones Especiales.
+
+58. “Período de Cierre” significa el plazo de hasta noventa (90) días contado a partir del vencimiento del Plazo Original de Desembolsos o sus extensiones.
+
+59. “Plan de Adquisiciones” significa una herramienta de programación y seguimiento d e las adquisiciones y contrataciones del Proyecto, en los términos descritos en las Estipulaciones Especiales, Políticas de Adquisiciones y en las Políticas de Consultores.
+
+60. “Plan Financiero” significa una herramienta de planificación y monitoreo de los flujos de fondos del Proyecto, que se articula con otras herramientas de planificación de proyectos, incluyendo el Plan de Adquisiciones.
+
+61. “Plazo de Conversión ” significa, para cualquier Conversión, con excepción de la Conversión de Productos Básicos , el período comprendido entre la Fecha de Conversión y el último día del periodo de interés en el cual la Conversión termina según sus términos. No obstante, para efectos del último pago de capital e intereses, el Plazo de Conversión termina en el día en que se pagan los intereses correspondientes a dicho período de interés.
+
+62. “Plazo de Ejecución” significa el plazo en Días Hábiles durante el cual el Banco puede ejecutar, una Conversión según sea determinado por el Prestatario en la Carta Solicitud de Conversión. El Plazo de Ejecución comienza a contar desde el día en que la Carta Solicitud de Conversión es recibida por el Banco.
+
+63. “Plazo Original de Desembolsos” significa el plazo originalmente previsto para los desembolsos del Préstamo, el cual se establece en las Estipulaciones Especiales.
+
+64. “Políticas de Adquisiciones” significa las Políticas para la Adquisición de Bienes y Obras Financiados por el Banco Interamericano de Desarrollo vigentes al momento de la aprobación del Préstamo por el Banco.
+
+65. “Políticas de Consultores” significa las Políticas para la Selección y Contratación de Consultores Financiados por el Banco Interamericano de Desarrollo vigentes al momento de la aprobación del Préstamo por el Banco.
+
+66. “Prácticas Prohibidas” significa las prácticas que el Banco prohíbe en relación con las actividades que éste financie, definidas por el Directorio o que se definan en el futuro y se informen al Prestatario, entre otras: práctica corrupta, práctica fraudulenta, práctica coercitiva, práctica colusoria, práctica obstructiva y apropiación indebida.
+
+67. “Precio Especificado” significa el precio del producto básico subyacente según el índice del Producto Básico Subyacente en la Fecha de Vencimiento de Conversión de Productos Básicos excep to que, para ciertos Tipos de Opciones, dicho precio será calculado sobre la base de una fórmula a ser determinada en la Carta Notificación de Conversión.
+
+68. “Precio de Ejercicio” significa, con respecto a una Conversión de Productos Básicos, el precio fijo al cual (i) el propietario de una Opción de Compra de Productos Básicos tiene el derecho de comprar, o (ii) el propietario de una Opción de Venta de Productos Básicos tiene el derecho de vender, el producto básico subyacente (liquidable en efectivo).
+
+69. “Préstamo” tendrá el significado que se le asigna en las Estipulaciones Especiales de este Contrato.
+
+70. “Prestatario” tendrá el significado que se le asigna en el preámbulo de las Estipulaciones Especiales de este Contrato.
+
+71. “Principios Básicos de Adquisiciones” significa los principios que guían las actividades de adquisiciones y los procesos de selección en virtud de las Políticas de Adquisiciones y las Políticas de Consultores, y son los siguientes: valor por dinero, economía, eficiencia, igualdad, transparencia, e integridad.
+
+72. “Proyecto” o “Programa” significa el proyecto o programa que se identifica en las Estipulaciones Especiales y consiste en el conjunto de actividades con un objetivo de desarrollo a cuya financiación contribuyen los recursos del Préstamo.
+
+73. “Saldo Deudor” significa el monto que el Prestatario adeuda al Banco por concepto de la parte desembolsada del Préstamo.
+
+74. “Saldo Deudor Requerido” tendrá el significado que se le asigna en el Artículo 5.02(f) de estas Normas Generales.
+
+75. “Semestre’' significa los primeros o los segundos seis (6) meses de un año calendario.
+
+76. “Tasa Base de Interés’’ significa la tasa determinada por el Banco al momento de la ejecución de una Conversión, con excepción de la Conversión de Productos Básicos, en función de: (i) la moneda solicitada por el Prestatario; (ii) el tipo de tasa de interés solicitada por el Prestatario; (iii) el Cronograma de Amortización; (iv) las condiciones de mercado vigentes; y (v) uno de los siguientes, entre otros: (1) la Tasa de Interés LIBOR en Dólares a tres (3) meses, más un margen que refleje el costo estimado de captación de recursos en Dólares del Banco existente al momento del desembolso o de la Conversión; o (2) el costo efectivo de la captación del f inanciamiento del Banco utilizado como base para la Conversión; (3) el índice de tasa de interés correspondiente más un margen que refleje el costo estimado de captación de recursos en la moneda solicitada al momento del desembolso o de la Conversión; o (4 ) con respecto a los Saldos Deudores que han sido objeto de una Conversión previa, con excepción de la Conversión de Productos Básicos, la tasa de interés vigente para dichos Saldos Deudores.
+
+77. “Tasa de Interés Basada en LIBOR ” significa la Tasa de Int erés LIBOR más el Costo de Fondeo del Banco, determinada en una Fecha de Determinación de la Tasa de Interés Basada en LIBOR para cada Trimestre.
+
+78. “Tasa de Interés LIBOR” significa la “USD-LIBOR-ICE” que es la tasa administrada por ICE Benchmark Admini stration (o cualquier otra entidad que la reemplace en la administración de la referida tasa) aplicable a depósitos en Dólares a un plazo de tres
+
+(3) meses que figura en la página correspondiente de las páginas Bloomberg Financial Markets Service o Reuters Service, o, de no estar disponibles, en la página correspondiente de cualquier otro ser vicio seleccionado por el Banco en que figure dicha tasa, a las 11:00 a.m., hora de Londres, en una fecha que es dos (2) Días Bancarios Londinenses antes de l a Fecha de Determinación de la Tasa de Interés Basada en LIBOR para cada Trimestre. Si dicha Tasa de Interés LIBOR no apareciera en la página correspondiente, la Tasa de Interés LIBOR correspondiente a esa Fecha de Determinación de la Tasa de Interés Basad a en LIBOR para cada Trimestre será determinada como si las Partes hubiesen especificado “USD-LIBOR-Bancos Referenciales” como la Tasa de Interés LIBOR aplicable. Para estos efectos, “USD- LIBOR-Bancos Referenciales” significa que la Tasa de Interés LIBOR correspondiente a una Fecha de Determinación de la Tasa de Interés Ba sada en LIBOR para cada Trimestre será determinada en función de las tasas a las que los Bancos Referenciales estén ofreciendo los depósitos en Dólares a los bancos de primer orden en el Mercado Interbancario de Londres aproximadamente a las 11:00 a.m., hora de Londres, en una fecha que es dos (2) Días Bancarios Londinenses antes de la Fecha de Determinación de la Tasa de Interés Basada en LIBOR para cada Trimestre, a un plazo de (3) meses, comenzando en la Fecha de Determinación de la Tasa de Interés Basada en LIBOR para cada Trimestre y en un Monto Representativo. El Agente o Agentes de Cálculo utilizado(s) por el Banco solicitará(n) una cotización de la Tasa de Interés LIBOR a la oficina principal en Londres de cada uno de los Bancos Referenciales. Si se obtiene un mínimo de dos (2) cotizaciones, la Tasa de Interés LIBOR correspondiente a esa Fecha de Determinación de la Tasa de Interés Basada en LIBOR para cada Trimestre será la media aritmética de las cotizaciones. De obtenerse menos de dos (2) cotizaciones según lo solicitado, la Tasa de Interés LIBOR correspondiente a esa Fecha de Determinación de la Tasa de Interés Basada en LIBOR para cada Trimestre será la media aritmética de las tasas cotizadas por los principales bancos en la ciudad de Nueva York, escogidos por el Agente o Agentes de Cálculo utilizado(s) por el Banco, aproximadamente a las 11:00 a.m., hora de Nueva York, aplicable a préstamos en Dólares concedidos a los principales bancos europeos, a un plazo de tres (3) meses, comenzando en la Fecha de Determinación de la Tasa de Interés Basada en LIBOR para cada Trimestre y en un Monto Representativo. Si el Banco obtiene la Tasa de Interés LIBOR de más de un Agente de Cálculo, como resultado del procedimiento descrito anteriormente, el Banco determinará a su sola discreción, la Tasa de Interés LIBOR aplicable en una Fecha de Determinación de la Tasa de Interés Basada en LIBOR para cada Trimestre, con fundamento en las tasas de interés proporcionadas por los Agentes de Cálculo. Para los propósitos de esta disposición, si la Fecha de Determinación de la Tasa de Interés Basada en LIBOR para cada Trimestre no es un día bancario en la ciudad de Nueva York, se utilizarán las Tasas de Inter és LIBOR cotizadas en el primer día bancario en Nueva York inmediatamente siguiente.
+
+79. “Tipo de Cambio de Valuación” es igual a la cantidad de unidades de Moneda Convertida por un Dólar, aplicable a cada Fecha de Valuación de Pago, de acuerdo con la fuente que se establezca en la Carta Notificación de Conversión.
+
+80. “Tipo de Opción” significa el tipo de Opción de Productos Básicos en relación con el cual el Banco puede, sujeto a la disponibilidad en el mercado y a consideraciones operativas y de manejo de riesgo, ejecutar una Conversión de Productos Básicos incluidas, entre otras, las opciones europea, asiática con media aritmética y precio de ejercicio fijo, y binaria.
+
+81. “Tope (cap) de Tasa de Interés” significa el establecimiento de un límite superior para una tasa variable de interés.
+
+82. “Trimestre” significa cada uno de los siguientes períodos de tres (3) meses del año calendario: el período que comienza el 1 de enero y termina el 31 de marzo; el período que comienza el 1 de abril y termina el 3 0 de junio; el período que comienza el 1 de julio y termina el 30 de septiembre; y el período que comienza el 1 de octubre y termina el 31 de diciembre.
+
+83. “VPP” significa vida promedio ponderada, ya sea la VPP Original o la que resulte de una modificación del Cronograma de Amortización, como resultado de una Conversión o no. La VPP se calcula en años (utilizando dos decimales), sobre la base del Cronograma de Amortización de todos los tramos y se define como la división entre (i) y (ii) siendo:
+
+(i) La sumatoria de los productos de (A) y (B), definidos como: (A) El monto de cada pago de amortización; (B) La diferencia en el número de días entre la fecha de pago de amortización y la fecha de suscripción de este Contrato, dividido por 365 días; y (ii) La suma de los pagos de amortización.
+
+La fórmula a aplicar es la siguiente: donde:
+
+VPP Es la vida promedio ponderada de todos los tramos del Préstamo, expresada en años. m Es el número total de los tramos del Préstamo. n Es el número total de pagos de amortización para cada tramo del Préstamo.
+
+Aij Es el monto de la amortización referente al pago i del tramo j, calculado en Dólares, o en el caso de una Conversión, en el equivalente en Dólares, a la tasa de cambio determinada por el Agente de C álculo para la fecha de modificación del Cronograma de Amortización.
+
+FPij Es la fecha de pago referente al pago i del tramo j.
+
+FS Es la fecha de suscripción de este Contrato.
+
+AT Es la suma de todos los Aij, calculada en Dólares, o en el caso de una Conversión, en el equivalente en Dólares, a la fecha del cálculo a la tasa de cambio determinada por el Agente de Cálculo.
+
+84. “VPP Original” significa la VPP del Préstamo vigente en la fecha de suscripción de este Contrato y establecida en las Estipulaciones Especiales.
+
+## CAPÍTULO III
+
+Amortización, intereses, comisión de crédito, inspección y vigilancia y pagos anticipados
+
+###### Artículo 3
+
+01. Fechas de pago de amortización, intereses, comisión de crédito y otros costos. El Préstamo será amortizado de acuerdo con el Cronograma de Amortización. Los intereses y las cuotas de amor tización se pagarán el día 15 del mes, de acuerdo con lo establecido en las Estipulaciones Especiales, en una Carta Notificación de Modificación de Cronograma de Amortización o en una Carta Notificación de Conversión, según sea el caso. Las fechas de pagos de amortización, comisión de crédito y otros costos coincidirán siempre con una fecha de pago de intereses.
+
+###### Artículo 3
+
+02. Modificación del Cronograma de Amortización. (a) El Prestatario, con la anuencia del Garante, si lo hubiere, podrá solicitar la modificación del Cronograma de Amortización en cualquier momento a partir de la fecha de entrada en vigencia del Contrato y hasta sesenta (60) días antes del vencimiento del Plazo Original de Desembolsos. También podrá solicitar la modificación del Cronograma de Amortización, con ocasión de una Conversión de Moneda o Conversión de Tasa de Interés en los términos establecidos en los Artículos 5.03 y 5.04 de estas Normas Generales.
+
+(b) Para solicitar una modificación del Cronograma de Amortización, el Prestatario deberá presentar al Banco una Carta Solicitud de Modificación de Cronograma de Amortización, que deberá: (i) señalar si la modificación del Cronograma de Amortización propuesta se aplica a la totalidad o una parte del Préstamo; y (ii) indicar el nuevo Cronograma de pagos, que incluirá la primera y última fecha de amortización, la frecuencia de pagos y el porcentaje que éstos representan de la totalidad del Préstamo o del tramo del mismo para el que se solicita la modificación.
+
+(c) La aceptación por parte del Banco de las modificaciones del Cronograma de Amortización solicitadas estará sujeta a las debidas consideraciones operativas y de manej o de riesgo del Banco y al cumplimiento de los siguientes requisitos:
+
+(i) La última fecha de amortización y la VPP acumulada de todos los Cronogramas de Amortización no excedan ni la Fecha Final de Amortización ni la VPP Original; (ii) El tramo del Préstamo sujeto a un nuevo Cronograma de Amortización no sea menor al equivalente de tres millones de Dólares (US$3.000.000), y (iii) El tramo del Préstamo sujeto a la modificación del Cronograma de Amortización no haya sido objeto de una modificación anterior salvo que la nueva modificación al Cronograma de Amortización sea resultado de una Conversión de Moneda.
+
+(d) El Banco notificará al Prestatario su decisión mediante una Carta Notificación de Modificación de Cronograma de Amortización. Si el Banco acepta la solicitud del Prestatario, la Carta Notificación de Modificación del Cronograma de Amortización incluirá:
+
+(i) el nuevo Cronograma de Amortización correspondiente al Préstamo o tramo del mismo; (ii) la VPP acumulada del Préstamo; y (iii) la fecha efecti va del nuevo Cronograma de Amortización.
+
+(e) El Préstamo no podrá tener más de cuatro (4) tramos denominados en Moneda Principal con Cronogramas de Amortización distintos. Los tramos del Préstamo denominados en Moneda Local podrán exceder dicho número, s ujeto a las debidas consideraciones operativas y de manejo de riesgo del Banco.
+
+(f) Con el objeto de que en todo momento la VPP del Préstamo continúe siendo igual o menor a la VPP Original, en cualquier evento en que la VPP del Préstamo exceda la VPP Original, el Cronograma de Amortización habrá de ser modificado. Para dichos efectos, el Banco informará al Prestatario de dicho evento, solicitando al Prestatario pronunciarse respecto del nuevo Cronograma de Amortización, de acuerdo con lo establecido en es te Artículo. Salvo que el Prestatario expresamente solicite lo contrario, la modificación consistirá en el adelanto de la Fecha Final de Amortización con el correspondiente ajuste a las cuotas de amortización.
+
+(g) Sin perjuicio de lo establecido en el li teral (f) anterior, el Cronograma de Amortización deberá ser modificado en los casos en que se acuerden extensiones al Plazo Original de Desembolsos que: (i) impliquen que dicho plazo se extienda más allá de la fecha de sesenta (60) días antes del vencimiento de la primera cuota de amortización del Préstamo o, en su caso, del tramo del Préstamo, y (ii) se efectúen desembolsos durante dicha extensión. La modificación consistirá en: (i) adelantar la Fecha Final de Amortización o, en el caso que el Préstamo tenga distintos tramos, en adelantar la Fecha Final de Amortización del tramo o tramos del Préstamo cuyos recursos se desembolsan durante la extensión del Plazo Original de Desembolsos, salvo que el Prestatario expresamente solicite, en su lugar, (ii) el incremento del monto de la cuota de amortización siguiente a cada desembolso del Préstamo o, en su caso, del tramo del Préstamo que ocasione una VPP mayor a la VPP Original. En el segundo caso, el Banco determinará el monto correspondiente a cada cuota de amortización.
+
+###### Artículo 3
+
+03. Intereses. (a) Intereses sobre Saldos Deudores que no han sido objeto de Conversión. Mientras el Préstamo no haya sido objeto de Conversión alguna, el Prestatario pagará intereses sobre los Saldos Deudores diarios a una Tasa de Interés Basada en LIBOR más el margen aplicable para préstamos del capital ordinario. En este caso, los intereses se devengarán a una tasa anual para cada Trimestre determinada por el Banco en una Fecha de Determinación de la Tasa de Interés Basada en LIBOR para cada Trimestre.
+
+(b) Intereses sobre Saldos Deudores que han sido objeto de Conversión. Si los Saldos Deudores han sido objeto de una Conversión, el Prestatario deberá pagar intereses sobre los Saldos Deudores convertidos bajo dicha Conversión a: (i) la Tasa Base de Interés que determine el Banco; más (ii) el margen aplicable para préstamos del capital ordinario del Banco.
+
+(c) Intereses sobre Saldos Deudores sujetos a un Tope (cap) de Tasa de Interés. En el supuesto de que se haya efectuado una Conversión de Tasa de Interés para establecer un Tope (cap) de Tasa de Interés y la tasa de interés pagadera por el Prestatario en virtud de lo establecido en este Artículo exceda el Tope (cap) de Tasa de Interés en cualquier momento durante el Plazo de Conversión, la tasa máxima de interé s aplicable durante dicho Plazo de Conversión será equivalente al Tope (cap) de Tasa de Interés.
+
+(d) Intereses sobre Saldos Deudores sujetos a una Banda ( collar) de Tasa de Interés. En el supuesto en que se haya efectuado una Conversión de Tasa de Interés para establecer una Banda ( collar) de Tasa de Interés y la tasa de interés pagadera por el Prestatario en virtud de lo establecido en este Artículo exceda o esté por debajo del lími te superior o inferior, respectivamente , de la Banda (collar) de Tasa de Interés en cualquier momento durante el Plazo de Conversión, la tasa máxima o mínima de interés aplicable durante dicho Plazo de Conversión será, respectivamente, el límite superior o el límite inferior de la Banda (collar) de Tasa de Interés.
+
+(e) Modificaciones a la base de cálculo de intereses. Las Partes acuerdan que, no obstante cualquier modificación en la práctica del mercado que, en cualquier momento, afecte la determinación de la Tasa de Interés LIBOR, los pagos por el Prestatario deberán permanecer vinculados a la captación del Banco. Para efectos de obtener y mantener dicho vínculo en tales circunstancias, las Partes acuerdan expresamente que el Agente de Cálculo, buscando re flejar la captación correspondiente del Banco, deberá determinar: (i) la ocurrencia de tales modificaciones; y (ii) la tasa base alternativa aplicable para determinar el monto apropiado a ser pagado por el Prestatario. El Agente de Cálculo deberá notificar la tasa base alternativa aplicable al Prestatario y al Garante, si lo hubiere, con anticipación mínima de sesenta (60) días. La tasa base alternativa será efectiva en la fecha de vencimiento de tal plazo de notificación.
+
+###### Artículo 3
+
+04. Comisión de crédito. (a) El Prestatario pagará una comisión de crédito sobre el saldo no desembolsado del Préstamo a un porcentaje que será establecido por el Banco periódicamente, como resultado de su revisión de cargos financieros para préstamos de capital ordinario sin que, en ningún caso, pueda exceder el 0,75% por año.
+
+(b) La comisión de crédito empezará a devengarse a los sesenta (60) días de la fecha de suscripción del Contrato.
+
+(c) La comisión de crédito cesará de devengarse: (i) cuando se hayan efectuado todos los desembolsos o (ii) en todo o parte, según sea el caso, cuando haya quedado total o parcialmente sin efecto el Préstamo, de conformidad con los Artículos 4.02, 4.12, 4.13 ó 8.02 de estas Normas Generales.
+
+###### Artículo 3
+
+05. Cálculo de los intereses y de la comisión de crédito. Los intereses y la comisión de crédito se calcularán con base en el número exacto de días del período de intereses correspondiente.
+
+###### Artículo 3
+
+06. Recursos para inspección y vigilancia. El Prestatario no estará obligado a cubrir los gastos del Banco por concepto de inspección y vigilancia generales, salvo que el Banco establezca lo contrario durante el Plazo Original de Desembolsos como consecuencia de su revisión periódica de cargos financieros para préstamos del capital ordinario, y notifique al Prestatario al respecto. En este caso, el Prestatario deberá indicar al Banco si pagará dicho monto directamente o si el Banco deberá retirar y retener dicho monto de los recursos del Préstamo. En ningún caso, podrá cobrarse por este concepto en un semestre determinado más de lo que resulte de aplicar el 1% al monto del Préstamo, dividido por el número de semestres comprendido en el Plazo Original de Desembolsos.
+
+###### Artículo 3
+
+07. Moneda de los pagos de amortización, intereses, comisiones y cuotas de inspección y vigilancia . Los pagos de amortización e intereses serán efectuados en Dólares, salvo que se haya realizado una Conversión de Moneda, en cuyo caso aplicará lo previsto en el Artículo 5.05 de estas Normas Generales. Los pagos de comisi ón crédito y cuotas de inspección y vigilancia se efectuarán siempre en la Moneda de Aprobación.
+
+###### Artículo 3
+
+08. Pagos anticipados . (a) Pagos Anticipados de Saldos Deudores denominados en Dólares con Tasa de Interés Basada en LIBOR. El Prestatario podrá pagar anticipadamente la totalidad o una parte de cualquier Saldo Deudor denominado en Dólares a Tasa de Interés Basada en LIBOR en una fecha de pago de intereses, mediante la presentación al Banco de una notificación escrita de carácter irrevocable con, al menos, treinta (30) días de anticipación, con la anuencia del Garante, si lo hubiere. Dicho pago se imputará de acuerdo a lo establecido en el Artículo 3.09 de estas Normas Generales. En la eventualidad de que el pago anticipado no cubra la totalidad de l Saldo Deudor, el pago se aplicará en forma proporcional a las cuotas de amortización pendientes de pago. Si el Préstamo tuviese tramos con Cronogramas de Amortización diferentes, el Prestatario deberá prepagar la totalidad del tramo correspondiente, salvo que el Banco acuerde lo contrario.
+
+(b) Pagos Anticipados de montos que han sido objeto de Conversión. Siempre que el Banco pueda revertir o reasignar su correspondiente captación del financiamiento o cualquier cobertura relacionada, el Prestatario, con la anuencia del Garante, si lo hubiere, podrá pagar anticipadamente en una de las fechas de pago de intereses establecidas en el Cronograma de Amortización adjunto a la Carta Notificación de Conversión: (i) la totalidad o una parte del monto que haya sido objeto de una Conversión de Moneda; (ii) la totalidad o una parte del monto que haya sido objeto de una Conversión de Tasa de Interés; y/o (iii) la totalidad o una parte de un monto equivalente al Saldo Deudor Requerido bajo una Conversión de Productos Básicos. Para este efecto, el Prestatario deberá presentar al Banco con, por lo menos, treinta (30) días de anticipación, una notificación escrita de carácter irrevocable. En dicha notificación el Prestatario deberá especificar el monto que desea pagar en forma anticipada y las Conversiones a las que se refiere. En la eventualidad de que el pago anticipado no cubra la totalidad del Saldo Deudor relacionado con dicha Conversión, éste se aplicará en forma proporcional a las cuotas pendientes de pago de dicha Co nversión. El Prestatario no podrá efectuar pagos anticipados por un monto menor al equivalente de tres millones de Dólares (US$3.000.000), salvo que el Saldo Deudor remanente relacionado con la Conversión correspondiente fuese menor y se pague en su totalidad.
+
+(c) Para efectos de los literales (a) y (b) anteriores, los siguientes pagos serán considerados como pagos anticipados: (i) la devolución de Anticipo de Fondos no justificados, y (ii) los pagos como consecuencia de que la totalidad o una parte del Préstamo haya sido declarado vencido y pagadero de inmediato de acuerdo con lo dispuesto en el
+
+###### Artículo 8
+
+02 de estas Normas Generales.
+
+(d) Sin perjuicio de lo dispuesto en el literal (b) anterior, en los casos de pago anticipado, el Prestatario recibirá del Banco o, en su defecto, le pagará al Banco, seg ún sea el caso, cualquier ganancia o costo incurrido por el Banco por revertir o reasignar su correspondiente captación del financiamiento o cualquier cobertura relacionada, determinada por el Agente de Cálculo. Si se tratase de ganancia, la misma se aplicará, en primer lugar, a cualquier monto vencido pendiente de pago por el Prestatario. Si se tratase de costo, el Prestatario pagará el monto correspondiente de forma conjunta y en la fecha del pago anticipado.
+
+###### Artículo 3
+
+09. Imputación de los pagos. Todo pago se imputará, en primer término, a la devolución de Anticipo de Fondos que no hayan sido justificados después de transcurrido el Período de Cierre, luego a comisiones e intereses exigibles en la fecha del pago y, si hubiere un saldo, a la amortización de cuotas vencidas de capital.
+
+###### Artículo 3
+
+10. Vencimientos en días que no son Días Hábiles. Todo pago o cualquiera otra prestación que, en cumplimiento de este Contrato, debiera llevarse a cabo en un día que no sea Día Hábil, se entenderá válidamente efectuado en el primer Día Hábil siguiente sin que, en tal caso, proceda recargo alguno.
+
+###### Artículo 3
+
+11. Lugar de los pagos. Todo pago deberá efectuarse en la oficina principal del Banco en Washington, Di strito de Columbia, Estados Unidos de América, a menos que el Banco designe otro lugar o lugares para este efecto, previa notificación escrita al Prestatario.
+
+## CAPÍTULO IV — Desembolsos, renuncia y cancelación automática
+
+###### Artículo 4
+
+01. Condiciones previas al primer desembolso de los recursos del Préstamo. Sin perjuicio de otras condiciones que se establezcan en las Estipulaciones Especiales, el primer desembolso de los recursos del Préstamo está sujeto a que se cumplan, a satisfacción del Banco, las siguientes condiciones:
+
+(a) Que el Banco haya recibido uno o más informes jurídicos fundados que establezcan, con señalamiento de las disposiciones constitucionales, legales y reglamentarias pertinentes, que las obligaciones contraídas por el Prestatario en este Contrató y las del Garante en los Contratos de Garantía, si los hubiere, son válidas y exigibles. Dichos informes deberán referirse, además, a cualquier consulta jurídica que el Banco estime pertinente formular.
+
+(b) Que el Prestatario o, en su caso, el Organismo Ejecutor, haya designado uno o más funcionarios que puedan representarlo para efectos de solicitar los desembolsos del Préstamo y en otros actos relacionados con la gestión financiera del Proyecto y haya hecho llegar al Banco ejemplares auténticos de las firmas de dichos representantes. Si se designaren dos o más funcionarios, corresponderá señalar si los designados pueden actuar separadamente o si tienen que hacerlo de manera conjunta.
+
+(c) Que el Prestatario o, en su caso, el Organismo Ejecutor , haya proporcionado al Banco por escrito, a través de su representante autorizado para solicitar los desembolsos del Préstamo, información sobre la cuenta bancaria en la cual se depositarán los desembolsos del Préstamo. Se requerirán cuentas separadas par a desembolsos en Moneda Local, Dólar y Moneda Principal. Dicha información no será necesaria para el caso en que el Banco acepte que los recursos del Préstamo sean registrados en la cuenta única de la tesorería del Prestatario.
+
+(d) Que el Prestatario o, en su caso, el Organismo Ejecutor haya demostrado al Banco que cuenta con un sistema de información financier a y una estructura de control interno adecuados para los propósitos indicados en este Contrato.
+
+###### Artículo 4
+
+02. Plazo para cumplir las condiciones previas al primer desembolso. Si dentro de los ciento ochenta (180) días contados a partir de la fecha de entrada en vigencia de este Contrato, o de un plazo más amplio que las Partes acuerden por escrito, no se cumplieren las condiciones previas al primer desembolso establecidas en el Artículo 4.01 de estas Normas Generales y otras condiciones previas al primer desembolso que se hubiesen acordado en las Estipulaciones Especiales, el Banco podrá poner término a este Contrato en forma anticipada mediante notificación al Prestatario.
+
+###### Artículo 4
+
+03. Requisitos para todo desembolso . (a) Como requisito de todo desembolso. y sin perjuicio de las condiciones previas al primer desembolso de los recursos del Préstamo establecidas en el Artículo 4.01 de estas Normas Generales y, si las hubiere, en las Estipulaciones Especiales, el Prestatario se compromete a presentar o, en su caso, a que el Organismo Ejecutor presente, al Banco por escrito, ya sea físicamente o por medios electrónicos, según la forma y las condicion es especificadas por el Banco, una solicitud de desembolso acompañada de los documentos pertinentes y demás antecedentes que el Banco pueda haberle requerido. Salvo que el Banco acepte lo contrario, la última solicitud de desembolso deberá ser entregada al Banco, a más tardar, con treinta (30) días de anticipación a la fecha de expiración del Plazo Original de Desembolsos o de la extensión del mismo.
+
+(b) A menos que las Partes lo acuerden de otra manera, sólo se harán desembolsos por sumas no inferiores al equivalente de cien mil Dólares (US$100.000).
+
+(c) Cualquier cargo, comisión o gasto aplicado a la cuenta bancaria donde se depositen los desembolsos de recursos del Préstamo, estará a cargo y será responsabilidad del Prestatario o del Organismo Ejecutor, según sea el caso.
+
+(d) Adicionalmente, el Garante no podrá haber incurrido en un retardo de más de ciento veinte (120) días en e l pago de las sumas que adeude al Banco por concepto de cualquier préstamo o garantía.
+
+###### Artículo 4
+
+04. Ingresos generados en la cuenta bancaria para los desembolsos. Los ingresos generados por recursos del Préstamo, depositados en la cuenta bancaria designada para recibir los desembolsos, deberán ser destinados al pago de Gastos Elegibles.
+
+###### Artículo 4
+
+05. Métodos para efectuar los desembolsos. Por solicitud del Prestatario o, en su caso, del Organismo Ejecutor, el Banco podrá efectuar los desembolsos de los recursos del Préstamo mediante: (a) reembolso de gastos; (b) Anticipo de Fondos; (c) pagos directos a terceros; y (d) reembolso contra garantía de carta de crédito.
+
+###### Artículo 4
+
+06. Reembolso de gastos . (a) El Prestatario o, en su caso, el Organismo Ejecutor, podrá solicitar desembolsos bajo el método de reembolso de gastos cuando el Prestatario o, en su caso, el Organ ismo Ejecutor, haya pagado los Gastos Elegibles con recursos propios.
+
+(b) A menos que las Partes acuerden lo contrario, las solicitudes de desembolso para reembolso de gastos deberán realizarse prontamente a medida que el Prestatario o, en su caso, el Organismo Ejecutor, incurra en dichos gastos y, a más tardar, dentro de los sesenta (60) días siguientes a la finalización de cada Semestre.
+
+###### Artículo 4
+
+07. Anticipo de Fondos . (a) El Prestatario o, en su caso, el Organismo Ejecutor, podrá solicitar desembolsos bajo el método de Anticipo de Fondos. El monto del Anticipo de Fondos será fijado por el Banco con base en: (i) las necesidades de liquidez del Proyecto para atender previsiones periódicas de Gastos Elegibles durante un período de hasta seis (6) meses, a menos que el Plan Financiero determine un periodo mayor que en ningún caso podrá exceder de doce (12) meses; y (ii) los riesgos asociados a la capacidad demostrada del Prestatario o, en su caso, del Organismo Ejecutor, para gestionar y utilizar los recursos del Préstamo.
+
+(b) Cada Anticipo de Fondos estará sujeto a que: (i) la solicitud del Anticipo de Fondos sea presentada de forma aceptable al Banco; y (ii) con excepción del primer Anticipo de Fondos, el Prestatario o, en su caso, el Organismo Ejecutor, haya presentado, y el Banco haya aceptado, la justificación del uso de, al menos, el ochenta por ciento (80%) del total de los saldos acumulados pendientes de justificación por dicho concepto, a menos que el Plan Financiero determine un porcentaje menor, que en ningún caso podrá ser menor al cincuenta por ciento (50%).
+
+(c) El Banco podrá incrementar el monto del último Anticipo de Fondos vigente otorgado al Prestatario o a l Organismo Ejecutor, según sea el caso, una sola vez durante la vigencia del Plan Financiero y en la medida que se requieran recursos adicionales para el pago de Gastos Elegibles no previstos en el mismo.
+
+(d) El Prestatario se compromete a presentar o, en su caso, a que el Organismo Ejecutor presente, la última solicitud de Anticipo de Fondos, a más tardar, treinta (30) días antes de la fecha de vencimiento del Plazo Original de Desembolsos o sus extensiones, en el entendimiento de que las justificaciones correspondientes a dicho Anticipo de Fondos serán presentadas al Banco durante el Período de Cierre. El Banco no desembolsará recursos con posterioridad al vencimiento del Plazo Original de Desembolsos o sus extensiones.
+
+(e) El valor de cada Anticipo de Fondos al Prestatario o al Organismo Ejecutor, según sea el caso, debe ser mantenido por el valor equivalente expresado en la moneda del desembolso respectivo o en la Moneda de Aprobación. La justificación de Gastos Elegibles incurridos con los recursos de un Anticipo de Fondos debe realizarse por el equivalente del total del Anticipo de Fondos expresado en la moneda del desembolso respectivo o en la Moneda de Aprobación, utilizando el tipo de cambio establecid o en el Contrato. El Banco podrá aceptar ajustes en la justificación del Anticipo de Fondos por concepto de fluctuaciones de tipo de cambio, siempre que éstas no afecten la ejecución del Proyecto.
+
+###### Artículo 4
+
+08. Pagos directos a terceros . (a) El Prestatario o el Organismo Ejecutor, según corresponda, podrá solicitar desembolsos bajo el método de pagos directos a terceros, con el objeto de que el Banco pague Gastos Elegibles directamente a proveedores o contratistas por cuenta del Prestatario o, en su caso, del Organismo Ejecutor.
+
+(b) En el caso de pagos directos a terceros, el Prest atario o el Or ganismo Ejecutor será responsable del pago del monto correspondiente a la diferencia entre el monto del desembolso solicitado por el Prestatario o el Organismo Ejecutor y el monto recibido por el tercero, por concepto de fluctuaciones cambiarias, comisiones y otros costos financieros.
+
+(c) Sin perjuicio de lo dispuesto en el literal (a) anterior y en el literal (b) del Artículo 8.04 de estas Normas Generales, cuando el Banco así lo determine, podrá, mediante notificación por escrito al Prestatario o al Organismo Ejecutor, según corresponda, dejar sin efecto la solicitud de pago directo sometida por el Prestatario o el Organismo Ejecutor, según sea el caso.
+
+###### Artículo 4
+
+09. Reembolso contra garantía de carta de crédito. El Prestatario o, en su caso, el Organismo Ejecutor, podrá solicitar desembolsos bajo el método de reembolso contra garantía de carta de crédito, para efectos de reembolsar a bancos comerciales por concepto e pagos efectuados a contratistas o proveedores de bienes y servicios en virtud de una carta de crédito emitida y/o confirmada por un banco comercial y garantizada por el Banco. La carta de crédito deberá ser emita y/o confirmada de manera satisfactoria para el Banco. Los recursos comprometidos en virtud de la carta de crédito y garantizados por el Banco deberán ser destinados exclusivamente para los fines establecidos en dicha carta de crédito, mientras se encuentre vigente la garantía.
+
+###### Artículo 4
+
+10. Tasa de Cambio. (a) El Prestatario se compromete a justificar o a que, en su caso, el Organismo Ejecutor justifique, los gastos efectuados con cargo al P réstamo o al Aporte Local, expresando dichos gastos en la moneda de denominación del respectivo desembolso o en la Moneda de Aprobación.
+
+(b) Con el fin de determinar la equivalencia de un Gasto Elegible que se efectúe en Moneda Local del país del Prestatario a la moneda en que se realicen los desembolsos, o bien, a la Moneda de Aprobación, para efectos de la rendición de cuentas y la justificación de gastos, cualquiera sea la fuente de financiamiento del Gasto Elegible, se utilizará una de las siguientes tasas de cambio, según se establece en las Estipulaciones Especiales:
+
+(i) La tasa de cambio efectiva en la fecha de conversión de la Moneda de Aprobación o moneda del desembolso a la Moneda Local del país del Prestatario, o (ii) La tasa de cambio efectiva en la fecha de pago del gasto en la Moneda Local del país del Prestatario.
+
+(c) En aquellos casos en que se seleccione la tasa de cambio, establecida en el inciso (b)(i) de este Artículo, para efectos de determinar la equivalencia de gastos incurridos en Moneda Local con cargo al Aporte Local o el reembolso de gastos con cargo al Aporte Local o en el reembolso de gastos con cargo al Préstamo , se utilizará la tasa de cambio acordada con el Banco en las Estipulaciones Especiales.
+
+###### Artículo 4
+
+11. Recibos. A solicitud del Banco, el Prestatario suscribirá y entregará al Banco, a la finalización de los desembolsos, el recibo o recibos que representen las sumas desembolsadas.
+
+###### Artículo 4
+
+12. Renuncia a parte de l Préstamo. El Prestatario, de acuerdo con el Garante, si lo hubiere, mediante notificación al Banco, podrá renunciar a su derecho de utilizar cualquier parte del Préstamo que no haya sido desembolsada antes del recibo de dicha notificación, siempre que no se trate de los recursos del Préstamo que se enc uentren sujetos a la garantía de reembolso de una carta de crédito irrevocable, según lo previsto en el Artículo 8.04 de estas Normas Generales.
+
+###### Artículo 4
+
+13. Cancelación automática de parte del Préstamo . Expirado el Plazo Original de Desembolsos y cualq uier extensión del mismo, la parte del Préstamo que no hubiere sido comprometida o desembolsada quedará automáticamente cancelada.
+
+###### Artículo 4
+
+14. Período de Cierre. (a) El Prestatario se compromete a llevar a cabo o, en su caso, a que el Organismo Ejecuto r lleve a cabo, las siguientes acciones durante el Período de Cierre: (i) finalizar los pagos pendientes a terceros, si los hubiere; (ii) reconciliar sus registros y presentar, a satisfacción del Banco, la documentación de respaldo de los gastos efectuados con cargo al Proyecto y demás informaciones que el Banco solicite; y (iii) devolver al Banco el saldo sin justificar de los recursos desembolsados del Préstamo.
+
+(b) Sin perjuicio de lo anterior, si el Contrato prevé informes de auditoría financiera externa financiados con cargo a los recursos del Préstamo, el Prestatario se compromete a reservar o, en su caso, a que el Organismo Ejecutor reserve, en la forma que se acuerde con el Banco, recursos suficientes para el pago de las mismas. En este caso, e l Prestatario se compromete, asimismo, a acordar o, en su caso, a que el Organismo Ejecutor acuerde, con el Banco, la forma en que se llevarán a cabo los pagos correspondientes a dichas auditorías. En el evento de que el Banco no reciba los mencionados informes de auditoría financiera externa dentro de los plazos estipulados en este Contrato, el Prestatario se compromete a devolver o, en su caso, a que el Organismo Ejecutor devuelva, al Banco, los recursos reservados para tal fin, sin que ello implique una renuncia del Banco al ejercicio de los derechos previstos en el Capítulo VIII de este Contrato.
+
+## CAPÍTULO V — Conversiones
+
+###### Artículo 5
+
+01. Ejercicio de la opción de Conversión. (a) El Prestatario podrá solicitar una Conversión de Moneda, una Conversión de T asa de Interés o una Conversión de Productos Básicos mediante la entrega al Banco de una “Carta Solicitud de Conversión” de carácter irrevocable, en la forma y el contenido satisfactorios para el Banco, en la que se indiquen los términos y condiciones fina ncieras solicitados por el Prestatario para la respectiva Conversión. El Banco podrá proporcionar al Prestatario un modelo de Carta Solicitud de Conversión.
+
+(b) La Carta Solicitud de Conversión deberá estar firmada por un representante debidamente autorizado del Prestatario, deberá tener la anuencia del Garante, si lo hubiere, y contendrá, cuando menos, la información que se señala a continuación:
+
+(i) Para todas las Conversiones. (A) número de Préstamo; (B) monto objeto de la Conversión; (C) tipo de Conversión (Conversión de Moneda, Conversión de Tasa de Interés o Conversión de Productos Básicos); (D) número de cuenta donde se habrán de depositar fondos, en caso de ser aplicable; y (E) Convención para el Cálculo de Intereses. (ii) Para Conversiones de Moneda. (A) moneda a la que el Prestatario solicita convertir el Préstamo; (B) Cronograma de Amortización asociado con dicha Conversión de Moneda, el cual podrá tener un plazo de amortización igual o menor a la Fecha Final de Amortización; (C) la parte del desembolso o del Saldo Deudor al que aplicará la Conversión; (D) el tipo de interés aplicable a los montos objeto de la Conversión de Moneda; (E) si la Conversión de Moneda es por Plazo Total o Plazo Parcial; (F) la Moneda de Liquidación; (G) el Plazo de Ejecución; y (H) cualquier otra instrucción relativa a la solicitud de Conversión de Moneda. Si la Carta Solicitud de Conversión se presenta en relación con un desembolso, la solicitud deberá indicar el monto del desembolso en unidades de la Moneda de Apro bación, en unidades de Dólar o en unidades de la moneda a la que se desea convertir, salvo que se trate del último desembolso, en cuyo caso la solicitud tendrá que ser hecha en unidades de la Moneda de Aprobación. En estos casos, si el Banco efectúa la Con versión, los desembolsos serán denominados en Moneda Convertida y se harán en: (i) la Moneda Convertida; o (ii) en un monto equivalente en Dólares al tipo de cambio establecido en la Carta Notificación de Conversión, que será aquel que determine el Banco a l momento de la captación de su financiamiento. Si la Carta Solicitud de Conversión se refiere a Saldos Deudores, la solicitud deberá indicar el monto en unidades de la moneda de denominación de los Saldos Deudores. (iii) Para Conversiones de Tasa de Int erés. (A) tipo de tasa de interés solicitada; (B) la parte del Saldo Deudor a la que aplicará la Conversión de Tasa de Interés; (C) si la Conversión de Tasa de Interés es por Plazo Total o por Plazo Parcial; (D) el Cronograma de Amortización asociado con dicha Conversión de Tasa de Interés, el cual podrá tener un plazo de amortización igual o menor a la Fecha Final de Amortización; y (E) para Conversiones de Tasa de Interés para el establecimiento de un Tope ( cap) de Tasa de Interés o Banda (collar) de Tasa de Interés, los limites superior y/o inferior aplicables, según sea el caso; y (F) cualquier otra instrucción relativa a la solicitud de Conversión de Tasa de Interés. (iv) Para Conversiones de Productos Básicos. (A) si se solicita una Opción de Venta de Productos Básicos o una Opción de Compra de Productos Básicos; (B) el Tipo de Opción: (C) la identidad del producto básico sujeto de dicha Conversión de Productos Básicos, incluyendo las propiedades físicas del mismo; (D) la Cantidad Nocional; (E) el ín dice del Producto Básico Subyacente; (F) el Precio de Ejercicio: (G) la Fecha de Vencimiento de Conversión de Productos Básicos; (H) si la Conversión es una Conversión de Productos Básicos por Plazo Total o una Conversión de Productos Básicos por Plazo Par cial; (I) la fórmula para la determinación del Monto de Liquidación en Efectivo, de ser el caso; (J) el Saldo Deudor Requerido; (K) la información específica de la cuenta bancaria en la que el Banco pagará al Prestatario, de ser el caso, el Monto de Liquidación en la Fecha de Liquidación de la Conversión de Productos Básicos; (L) a opción del Prestatario, el monto máximo de la prima que está dispuesto a pagar para contratar una Conversión de Productos Básicos en base a una Cantidad Nocional y un Precio de E jercicio determinados, tal como se prevé en el párrafo (e) a continuación; y (M) cualesquiera otras instrucciones relacionadas con la solicitud de Conversión de Productos Básicos.
+
+(c) Cualquier monto de capital pagadero dentro del período contado desde los quince
+
+(15) días previos al comienzo del Plazo de Ejecución hasta e incluyendo la Fecha de Conversión no podrá ser objeto de Conversión y deberá ser pagado en los términos aplicables previamente a la ejecución de la Conversión.
+
+(d) Una vez que el Banco haya recibido la Carta Solicitud de Conversión, procederá a revisar la misma. Si la encuentra aceptable, el Banco efectuará la Conversión durante el Plazo de Ejecución de acuerdo con lo previsto en este Capítulo V. Efectuada la Conversión, el Banco envi ará al Prestatario una Carta Notificación de Conversión con los términos y condiciones financieros de la Conversión.
+
+(e) Con respecto a las Conversiones de Productos Básicos, el Prestatario podrá indicar en la Carta Solicitud de Conversión el monto máximo de la prima que está dispuesto a pagar para contratar una Conversión de Productos Básicos teniendo en cuenta una Cantidad Nocional y un Precio de Ejercicio determinados. Para el caso de que no se especifique un límite, el Banco podrá contratar la cobertura de productos básicos relacionada al precio de la prima prevaleciente en el mercado. Alternativamente, el Prestatario podrá dar instrucciones al Banco para que contrate la cobertura de productos básicos relacionada con base a un monto de la prima en Dóla res y un Precio de Ejercicio determinados. La Cantidad Nocional resultante reflejará las condiciones de mercado en el momento de la contratación de la cobertura.
+
+(f) Si el Banco determina que la Carta Solicitud de Conversión no cumple con los requisitos previstos en este Contrato, el Banco notificara al efecto al Prestatario durante el Plazo de Ejecución. El Prestatario podrá presentar una nueva Carta Solicitud de Conversión, en cuyo caso el Plazo de Ejecución para dicha Conversión empezará a contar desde el momento en que el Banco reciba la nueva Carta Solicitud de Conversión.
+
+(g) Si durante el Plazo de Ejecución el Banco no logra efectuar la Conversión en los términos solicitados por el Prestatario en la Carta Solicitud de Conversión, dicha carta se considerará nula y sin efecto, sin perjuicio de que el Prestatario pueda presentar una nueva Carta Solicitud de Conversión.
+
+(h) Si durante el Plazo de Ejecución ocurre una catástrofe nacional o internacional, una crisis de naturaleza financiera o económica, un cambio en los mercados de capitales o cualquier otra circunstancia extraordinaria que pudiera afectar, en opinión del Banco, material y negativamente su habilidad para efectuar una Conversión o efectuar una captación de financiamiento o cobertura relacionada, el Banco notificará al Prestatario y acordará con éste cualquier actuación que haya de llevarse a cabo con respecto a dicha Carta Solicitud de Conversión.
+
+###### Artículo 5
+
+02. Requisitos para toda Conversión. Cualquier Conversión estará sujeta a los siguientes requisitos:
+
+(a) La viabilidad de que el Banco realice cualquier Conversión dependerá de la facultad del Banco de captar su financiamiento o, de ser el caso, de contratar cualquier cobertura bajo términos y condiciones que, a criterio del Banco, sean aceptables para éste de acuerdo a sus propias políticas, y estará sujeta a consideraciones legales, operativas y de manejo de riesgo y a las condiciones prevalecientes de mercado.
+
+(b) El Banco no efectuará Co nversiones sobre montos inferiores al equivalente de tres millones de Dólares (US$3.000.000), salvo que: (i) en caso del último desembolso, el monto pendiente de desembolsar fuese menor; o (ii) en caso de un Préstamo completamente desembolsado, el Saldo De udor bajo cualquier tramo del Préstamo fuese menor.
+
+(c) El número de Conversiones de Moneda a Moneda Principal no podrá ser superior a cuatro (4) durante la vigencia de este Contrato. Este límite no aplicará a Conversiones de Moneda a Moneda Local.
+
+(d) El número de Conversiones de Tasa de Interés no podrá ser superior a cuatro (4) durante la vigencia de este Contrato.
+
+(e) No habrá límite en el número de Conversiones de Productos Básicos que puedan contratarse durante la vigencia de este Contrato.
+
+(f) Cada Conversión de Productos Básicos solamente será ejecutada por el Banco en relación con Saldos Deudores de acuerdo con la siguiente fórmula (en adelante, el “Saldo Deudor Requerido”):
+
+(i) Para las Opciones de Compra de Productos Básicos, el Saldo Deudor Requerido será la Cantidad Nocional * (Z - Precio de Ejercicio), donde Z es el precio futuro más alto del producto básico esperado a la Fecha de Vencimiento de Conversión de Productos Básicos, para el Tipo de Opción correspondiente, según sea calculado por el Banco, y (ii) Para las Opciones de Venta de Productos Básicos, el Saldo Deudor Requerido será la Cantidad Nocional * (Precio de Ejercicio - Y), donde Y es el precio futuro más bajo del producto básico esperado a la Fecha de Vencimiento de Conversión de Productos Básicos, para el Tipo de Opción correspondiente, según sea calculado por el Banco.
+
+(g) Cualquier modificación del Cronograma de Amortización solicitado por el Prestatario al momento de solicitar una Conversión de Mo neda estará sujeto a lo previsto en los Artículos 3.02(c) y 5.03(b) de estas Normas Generales. Cualquier modificación del Cronograma de Amortización solicitado por el Prestatario al momento de solicitar una Conversión de Tasa de Interés estará sujeto a lo previsto en los Artículos 3.02(c) y 5.04(b) de estas Normas Generales.
+
+(h) El Cronograma de Amortización resultante de una Conversión de Moneda o Conversión de Tasa de Interés determinado en la Carta Notificación de Conversión no podrá ser modificado post eriormente durante el Plazo de Conversión, salvo que el Banco acepte lo contrario.
+
+(i) Salvo que el Banco acepte lo contrario, una Conversión de Tasa de Interés con respecto a montos que han sido previamente objeto de una Conversión de Moneda, sólo podrá efectuarse: (i) sobre la totalidad del Saldo Deudor asociado a dicha Conversión de Moneda; y (ii) por un plazo igual al plazo remanente de la respectiva Conversión de Moneda.
+
+###### Artículo 5
+
+03. Conversión de Moneda por Plazo Total o Plazo Parcial . (a) El Prestatario podrá solicitar una Conversión de Moneda por Plazo Total o una Conversión de Moneda por Plazo Parcial.
+
+(b) La Conversión de Moneda por Plazo Total y la Conversión de Moneda por Plazo Parcial podrán ser solicitadas y efectuadas hasta la Fecha Fina l de Amortización. No obstante si el Prestatario hace la solicitud con menos de sesenta (60) días de anticipación al vencimiento del Plazo Original de Desembolsos, entonces dicha Conversión de Moneda tendrá la limitación de que el Saldo Deudor bajo el nuev o Cronograma de Amortización solicitado no deberá, en ningún momento, exceder el Saldo Deudor bajo el Cronograma de Amortización original, teniendo en cuenta los tipos de cambio establecidos en la Carta Notificación de Conversión.
+
+(c) En caso de una Conversión de Moneda por Plazo Parcial, el Prestatario deberá incluir en la Carta Solicitud de Conversión: (i) el Cronograma de Amortización hasta el final del Plazo de Conversión; y (ii) el Cronograma de Amortización correspondiente al Saldo Deudor pagadero a partir del vencimiento del Plazo de Conversión y hasta la Fecha Final de Amortización, el cual deberá corresponder a los términos y condiciones que eran aplicables con anterioridad a la ejecución de la Conversión de Moneda.
+
+(d) Antes del vencimiento de la Conversión de Moneda por Plazo Parcial, el Prestatario, con la anuencia del Garante, si lo hubiere, podrá solicitar al Banco una de las siguientes opciones:
+
+(i) La realización de una nueva Conversión de Moneda, previa presentación de una nueva Carta Solicitud de Conversión dentro de un período no menor a quince (15) Días Hábiles antes de la fecha de vencimiento de la Conversión de Moneda por Plazo Parcial. Esta nueva Conversión de Moneda tendrá la limitación adicional de que el Saldo Deud or bajo el nuevo Cronograma de Amortización no deberá exceder, en ningún momento, el Saldo Deudor bajo el Cronograma de Amortización solicitado en la Conversión de Moneda por Plazo Parcial original. Si fuese viable, sujeto a condiciones de mercado, efectuar una nueva Conversión, el Saldo Deudor del monto originalmente convertido seguirá denominado en la Moneda Convertida, aplicándose la nueva Tasa Base de Interés, que refleje las condiciones de mercado prevalecientes en el momento de ejecución de la nueva Conversión. (ii) El pago anticipado del Saldo Deudor del monto convertido, mediante solicitud por escrito al Banco, por lo menos, treinta (30) días antes de la fecha de vencimiento de la Conversión de Moneda por Plazo Parcial. Este pago se realizará en la fecha de ve ncimiento de la Conversión de Moneda por Plazo Parcial en la Moneda de Liquidación, de acuerdo con lo establecido en el Artículo 5.05 de estas Normas Generales.
+
+(e) Para efectos de lo previsto en el literal (d) de este Artículo 5.03, el Saldo Deudor originalmente sujeto a Conversión de Moneda será automáticamente convertido a Dólares al vencimiento de la respectiva Conversión de Moneda por Plazo Parcial y estará sujeto a la Tasa de Interés prevista en el Artículo 3.03(a) de las Normas Generales: (i) s i el Banco no pudiese efectuar una nueva Conversión; o (ii) si quince (15) días antes de la fecha de vencimiento dé la Conversión de Moneda por Plazo Parcial, el Banco no recibiese una solicitud del Prestatario en los términos previstos en el literal (d) de este Artículo 5.03; o (iii) si en la fecha de vencimiento de la Conversión de Moneda por Plazo Parcial, el Prestatario no hubiese efectuado el pago anticipado que había solicitado.
+
+(f) En el caso de que el Saldo Deudor originalmente sujeto a Conversión de Moneda sea convertido a Dólares de acuerdo con lo previsto en el literal (e) anterior, el Banco deberá poner en conocimiento del Prestatario y del Garante, sí lo hubiere, a l final del plazo de la Conversión de Moneda por Plazo Parcial, los montos convertidos a Dólares, así como el tipo de cambio correspondiente de acuerdo con las condiciones prevalecientes del mercado, según lo determine el Agente de Cálculo.
+
+(g) El Saldo Deudor convertido a Dólares podrá ser objeto de una nueva solicitud de Conversión de Moneda, sujeto a lo estipulado en este Capítulo V.
+
+(h) Al vencimiento de una Conversión de Moneda por Plazo Total, e1 Prestatario deberá pagar íntegramente el Saldo Deudor del monto convertido en la Moneda de Liquidación, de acuerdo con lo previsto en el Artículo 5.05 de estas Normas Generales, no pudiendo solicitar una nueva Conversión de Moneda.
+
+(i) Dentro del plazo de treinta (30) días contados a partir de la fecha de cancelación o modificación de una Conversión de Moneda, el Prestatario recibi rá del Banco o alternativamente pagará al Banco, según sea el caso, los montos relativos a cualquier ganancia o costo incurrido por el Banco por revertir o reasignar la captación de su financiamiento, o cualquier cobertura relacionada, asociada c on la canc elación o modificación de dicha Conversión de Moneda. Si se tratase de ganancia, la misma se aplicará, en primer lugar, a cualquier monto vencido pendiente de pago por el Prestatario al Banco.
+
+###### Artículo 5
+
+04. Conversión de Tasa de Interés por Plazo Total o Plazo Parcial. (a) El Prestatario podrá solicitar una Conversión de Tasa de Interés por Plazo Total o una Conversión de Tasa Interés por Plazo Parcial.
+
+(b) La Conversión de Tasa de Interés por Plazo Total y la Conversión de Tasa de Interés por Plazo Parcial podrán ser solicitadas y efectuadas hasta la Fecha Final de Amortización. No obstante, si el Prestatario hace la solicitud con menos de sesenta (60) días de anticipación al vencimiento del Plazo Original de Desembolsos, entonces dicha Conversión te ndrá la limitación de que el Saldo Deudor bajo el nuevo Cronograma de Amortización solicitado no deberá, en ningún momento, exceder el Saldo Deudor bajo el Cronograma de Amortización original.
+
+(c) En caso de Conversión de Tasa de Interés por Plazo Parcia l sobre montos denominados en Dólares, el Prestatario deberá incluir en la Carta Solicitud de Conversión:
+
+(i) el Cronograma de Amortización hasta el final del Plazo de Conversión; y (ii) el Cronograma de Amortización para el Saldo Deudor pagadero a partir del vencimiento del Plazo de Conversión y hasta la Fecha Final de Amortización, el cual corresponderá a los términos y condiciones que eran aplicables con anterioridad a la ejecución de la Conversión de Tasa de Interés.
+
+(d) En caso de Conversión de Tasa de Interés por Plazo Parcial sobre montos denominados en Dólares, la Tasa de Interés aplicable a los Saldos Deudores al vencimiento de dicha Conversión de Tasa de Interés por Plazo Parcial, será la establecida en el Artículo 3.03 (a) de estas Normas Generales. Las Conversiones de Tasa de Interés por Plazo Parcial sobre Saldos Deudores denominados en moneda distinta del Dólar estarán sujetas al requisito previsto en el Artículo 5.02(g) y, por lo tanto, tendrán el mismo tratamiento relativo al vencimiento del Plazo de Conversión de las Conversiones de Moneda por Plazo Parcial previsto en el Artículo 5.03(3) de estas Normas Generales.
+
+(e) Dentro del plazo de treinta (30) días contados a partir de la fecha de cancelación o modificación de una Conversión de Tas a de Interés, el Prestatario recibirá del Banco o, alternativamente, pagará al Banco, según sea el caso, los montos relativos a cualquier ganancia o costo incurrido por el Banco por revertir o reasignar la captación de su financiamiento, o cualquier cobert ura relacionada, asociada con la cancelación o modificación de dicha Conversión de Tasa de Interés. Si se tratase de ganancia, la misma se aplicará, en primer lugar, a cualquier monto vencido pendiente de pago por el Prestatario al Banco.
+
+###### Artículo 5
+
+05. Pagos de cuotas de amortización e intereses en caso de Conversión de Moneda. De acuerdo con lo establecido en el Artículo 3.07 de estas Normas Generales, en los casos en que ha habido una Conversión de Moneda, los pagos de cuotas de amortización e intereses de los montos convertidos se efectuarán en la Moneda de Liquidación. En caso de que la Moneda de Liquidación sea Dólares, se aplicará el Tipo de Cambio de Valuación vigente en la Fecha de Valuación de Pago para la respectiva fecha de vencimiento, de acuerdo a lo establecido en la Carta Notificación de Conversión.
+
+###### Artículo 5
+
+06. Terminación anticipada de una Conversión . El Prestatario podrá solicitar por escrito la terminación anticipada de una Conversión la cual estará sujeta a que el Banco pue da terminar su captación de financiamiento correspondiente o la cobertura relacionada. En ese caso, el Prestatario recibirá del Banco o, alternativamente, le pagará al Banco, según sea el caso, cualquier ganancia, incluido cualquier pago resultante de la terminación anticipada de una cobertura de productos básicos, o costo incurrido por el Banco por revertir o reasignar su captación de financiamiento correspondiente o cualquier cobertura relacionada, según lo determine el Agente de Cálculo. Si se tratase de un costo, el Prestatario pagará prontamente el monto correspondiente al Banco. Si se tratase de ganancia, la misma se aplicará, en primer lugar, a cualquier monto vencido pendiente de pago por el Prestatario al Banco por concepto de, entre otros, comisiones o primas adeudadas.
+
+###### Artículo 5
+
+07. Comisiones de transacción aplicables a Conversiones . (a) Las comisiones de transacción aplicables a las Conversiones efectuadas bajo este Contrato serán las que el Banco determine periódicamente. Cada Carta Notificación de Conversión indicará, si la hubiere, la comisión de transacción que el Prestatario estará obligado a pagar al Banco en relación con la ejecución de la respectiva Conversión, la cual se mantendrá vigente durante el Plazo de Conversión de dicha Conversión.
+
+(b) La comisión de transacción aplicable a una Conversión de Moneda, (i) será expresada en forma de puntos básicos por año; (ii) se devengará en la Moneda Convertida desde la Fecha de Conversión (inclusive) sobre el Saldo Deudor de dicha Conversión de Moneda; y (iii) se pagará junto con cada pago de intereses de acuerdo con lo establecido en el Artículo 5.05 de estas Normas Generales.
+
+(c) La comisión de transacción aplicable a una Conversión de Tasa de Interés, (i) será expresada en forma de puntos básicos por año; (ii) se devengará en la moneda de denominación del Saldo Deudor sujeto a dicha Conversión de Tasa de Interés; (iii) se devengará desde Fecha de Conversión (inclusive) sobre el Saldo Deudor sujeto a dicha Conversión de Tasa de Interés; y (iv) se pagará junto con cada pago de intereses de acuerdo con lo establecido en el Artículo 5.05 de estas Normas Generales.
+
+(d) Sin perjuicio de las comisiones de transacción señaladas en los literales (b) y (c) anteriores, en el caso de Conversiones de Moneda o Conv ersiones de Tasa de Interés que contemplen Topes (caps) de Tasa de Interés o Bandas (collar) de Tasa de Interés, se aplicara una comisión de transacción por concepto de dicho Tope ( cap) de Tasa de Interés o Banda (collar) de Tasa de Interés, la cual: (i) se denominará en la misma moneda del Saldo Deudor sujeto al Tope (cap) de Tasa de Interés o Banda (collar) de Tasa de Interés; y (ii) se cancelará mediante un único pago en la Moneda de Liquidación, en la primera fecha de pa go de intereses, de acuerdo con lo establecido en el Artículo 5.05 de estas Normas Generales.
+
+(e) La comisión de transacción aplicable a una Conversión de Productos Básicos, (i) será expresada en forma de puntos básicos; (ii) se calculará sobre la base de la Cantidad Nocional multiplicada por el precio de cierre del producto básico en la Fecha de Conversión de Productos Básic o según el Índice del Producto Básico Subyacente; y (iii) se pagará en Dólares, en un único pago por adelantado o en cuotas, según ello sea acordado entre el Banco y el Prestatario y se especifique en la Carta Notificación de Conversión. En ningún caso el Prestatario pagará dicha comisión al Banco después de la Fecha de Vencimiento de la Conversión de Productos Básicos o, si fuera el ca so, de la fecha en que la Conversión de Productos Básicos sea terminada anticipadamente de conformidad con lo previsto en el
+
+###### Artículo 5
+
+06 de estas Normas Generales.
+
+(f) En caso de terminación anticipada de una Conversión de Productos Básicos, se aplicará una comisión de transacción adicional, que: (i) será expresada en forma de puntos básicos; (ii) se calculará sobre la base de la Cantidad Nocional multiplicada por el precio de cierre del producto básico en la fecha de la terminación anticipada de acuerdo con el índice del Producto Básico Subyacente; y (iii) se pagará en Dólares, como un único pago, prontamente una vez ocurrida la terminación.
+
+###### Artículo 5
+
+08. Gastos de fondeo y primas o descuentos asociados a una Conversión.
+
+(a) En el supuesto que el Banco utilice su costo efectivo de captación de financiamiento para determinar la Tasa Base de Interés, el Prestatario estará obligado a pagar las comisiones y otros gastos de captación en que haya incurrido el Banco. Adicionalmente, cualesquiera primas o descu entos relacionados con la captación de financiamiento, serán pagados o recibidos por el Prestatario, según sea el caso. Estos gastos y primas o descuentos se especificarán en la Carta Notificación de Conversión.
+
+(b) Cuando la Conversión se efectúe con oc asión de un desembolso, el monto a ser desembolsado al Prestatario deberá ser ajustado para deducir o agregar cualquier monto adeudado por o pagadero al Prestatario en virtud del literal (a) anterior.
+
+(c) Cuando la Conversión se realice sobre Saldos Deudores, el monto adeudado por o pagadero al Prestario en virtud del literal (a) anterior, deberá ser pagado por el Prestatario o por el Banco, según sea el caso, dentro de los treinta (30) días siguiente s a la Fecha de la Conversión.
+
+###### Artículo 5
+
+09. Primas p agaderas por Topes ( caps) de Tas a de Interés o Bandas (collar) de Tasa de Interés . (a) Además de las comisiones de transacció n pagaderas de acuerdo con el Artículo 5.07 de estas Normas Generales, el Prestatario deberá pagar al Banco una prima sobre el Saldo Deudor sujeto al Tope (cap) de Tasa de Interés o Banda (collar) de Tasa de Interés solicitado por el Prestatario, equivalente a la prima pagada por el Banco a una contraparte, si la hubiere, como resultado de la compra del Tope (cap) de Tasa de Interés o Banda (collar) de Tasa Interés. El pago de dicha prima deberá efectuarse (i) en la moneda de denominación del Saldo Deudor sujeto al Tope (cap) de Tasa de Interés o Banda (collar) de Tasa de Interés, o su equivalente en Dólares, al tipo de cambio establecido en la Carta Notificación de Convención, debiendo ser aquella tasa de cambio que se determine al momento de la captación del financiamiento del Banco o de la ejecución de la cobertura relacionada; y (ii) en un pago úni co en una fecha acordada entre las Partes, pero, en ningún caso, después de treinta (30) días de la Fecha de Conversión; salvo si es operativamente posible para el Banco, éste acepte un mecanismo de pago diferente.
+
+(b) Si el Prestatario solicitase una Ban da (collar) de Tasa de Interés, podrá solicitar que el Banco establezca el límite inferior de la Banda ( collar) de Tasa de Interés para garantizar que la prima correspondiente a dicho límite inferior sea igual a la prima correspondiente al límite superior y de esta forma establecer una Banda ( collar) de Tasa de Interés sin costo (zero cost collar). Si el Prestatario optase por determinar los límites superior e inferior la prima pagadera por el Prestatario al Banco con respecto al límite superior de la Banda (collar) de Tasa de Interés se compensará con la prima pagadera por el Banco a l Prestatario con respecto al límite inferior de la Banda (collar) de Tasa de Interés. No obstante, la prima pagadera por el Banco al Prestatario con respecto al límite inferior de la Banda (collar) de Tasa de Interés no podrá, en ningún caso, exceder la prima pagadera por el Prestatario al Banco con respecto al límite superior de la Banda (collar) de Tasa de Interés. En consecuencia, durante el Plazo de Ejecución, el Banco podrá reducir el límite inferior de la Banda (collar) de Tasa de Interés a efectos de que la prima sobre este no exceda la prima sobre el límite superior de la Banda (collar) de Tasa de Interés.
+
+###### Artículo 5
+
+10. Primas en relación con una Conversión de Productos Básicos . En adición a las comisiones de transacción pagaderas de conformidad con el Artículo 5.07 de estas Normas Generales, pero sujeto al Art ículo 5.01 (e) de estas Normas Generales, el Prestatario deberá pagar al Banco una prima equivalente a la prima pagada por el Banco a una contraparte para efectuar una cobertura de productos básicos relacionada. Dicha prima se deberá pagar en Dólares, en u n único pago por adelantado o en cuotas, según ello sea acordado entre el Banco y el Prestatario, y especificado en la Carta Notificación de Conversión. El Banco podrá aceptar mecanismos de pago alternativos, como expresar la prima en forma de puntos básicos por año, en cuyo caso se pagará junto con los intereses en cada fecha de pago de intereses. En ningún caso el Prestatario pagará dicha comisión al Banco después de la Fecha de Vencimiento de la Conversión de Productos Básicos o, si fuera el caso, de la fecha en que la Conversión de Productos Básicos sea terminada anticipadamente de conformidad con lo previsto en el Artículo 5.06 de estas Normas Generales.
+
+###### Artículo 5
+
+11. Conversión de Productos Básicos . Cada Conversión de Productos Básicos se ejecutará de acuerdo con los siguientes términos y condiciones:
+
+(a) Cada Conversión de Productos Básicos estará relacionada con una Opción de Venta de Productos Básicos o con una Opción de Compra de Productos Básicos (cada una de ellas denominada una “Opción de Productos Básicos”). Una Opción de Productos Básicos implica el otorgamiento por parte del Banco al Prestatario del derecho, a ser ejercido según lo dispuesto en este Artículo 5. 11, a que el Banco le pague el Monto de Liquidación en Efectivo, si lo hubiera, en la Fecha de Liquidación de Conversión de Productos Básicos.
+
+(b) Si, en la Fecha de Vencimiento de Conversión de Productos Básicos bajo una Opción de Compra de Productos Básicos, el Precio Especificado excede el Precio de Ejercicio, el “Monto de Liquidación en Efectivo” será igual al producto de (i) el exceso del Precio Especificado sobre el Precio de Ejercicio multiplicado por (ii) la Cantidad Nocional de dicha Opción de Producto Básico. De lo contrario, el “Monto de Liquidación en Efectivo” para dicha Opción de Compra de Productos Básicos será cero.
+
+(c) Si, en la Fecha de Vencimiento de Conversión de Productos Básicos bajo una Opción de Venta de Productos Básicos, el Precio de Ejercicio excede el Precio Especificado, el “Monto de Liquidación en Efectivo” será igual al producto de (i) el exceso del Precio de Ejercicio sobre el Precio Especificado multiplicado por (ii) la Cantidad Nocional de dicha Opción de Producto Básico. De lo contrario, el “Monto de liquidación en Efectivo” para dicha Opción de Venta de Productos Básicos será cero.
+
+(d) En caso de que la Conversión de Productos Básicos se refiera a un Tipo de Opción binaria, el “Monto de Liquidación en Efectivo” se determinará con base en una fórmula a ser especificada en la Carta Notificación de Conversión (Artículo 5.01 (b)(iv)(I) de estas Normas Generales).
+
+(e) En la Fecha de Vencimiento de Conversión de Productos Básicos, el Banco determinará y notificará al Prestatario el Monto de Liquidación en Efectivo. Si el Monto de Liquidación en Efectivo es mayor a cero, el Banco pagará dicho monto al Prestatario en la Fecha de Liquidación de la Conversión de Productos Básicos. En el caso de que un préstamo otorgado al Prestatario, o garantizado por el Prestatario, esté atrasado por más de treinta (30) días, el Banco podrá deducir del Monto de Liquidación en Efectivo todos los montos adeudados y pagaderos por el Prestatario al Banco bajo cualquier préstamo otorgado al Prestatario, o garantizado por el Prestatario, que se encuentre atrasado por cualquier período de tiempo, ya sea por más o por menos de treinta (30) días.
+
+(f) Si, en la fecha correspondiente, el Prestatario no realizase el pago de alguna prima pagadera en virtud de una Conversión de Productos Básicos, y dicho incumplimiento no se subsanase en un plazo razonable, el Banco podrá, mediante notificación por escrito al Prestatario, rescindir la Opción de Productos Básicos relacionada, en cuyo caso el Prestatario deberá pagar el Banco un monto, a ser determinado por el Banco, equivalente a los c ostos a ser incurridos por éste como resultado de revertir o reasignar cualquier cobertura de productos básicos relacionada. Alternativamente, el Banco podrá optar por no rescindir la Opción de Productos Básicos, en cuyo caso, cualquier Monto de Liquidació n en Efectivo resultante en una Fecha de Vencimiento de Conversión de Productos Básicos será aplicado según lo dispuesto en el Artículo 5.06 de estas Normas Generales.
+
+###### Artículo 5
+
+12. Eventos de interrupción de las cotizaciones. Las Partes reconocen que los pagos hechos por el Prestatario, tanto de amortización como de intereses, de los montos que han sido objeto de una Conversión, deben, en todo momento, mantenerse vinculados con la correspondiente captación del financiamiento del Banco en relación con p agos asociados a dicha Conversión. Por lo tanto, las Partes convienen que, no obstante la ocurrencia de cualquier evento de interrupción que materialmente afecte los diversos tipos de cambio, las tasas de interés e índice de ajuste de inflación utilizados en este Contrato, si lo hubiere, o las Cartas Notificación de Conversión, los pagos del Prestatario continuarán vinculados a dicha captación del financiamiento del Banco. Con el fin de obtener y mantener esa vinculación bajo dichas circunstancias, las Partes expresamente acuerdan que el Agente de Cálculo, actuando de buena fe y de una manera comercialmente razonable, tratando de reflejar la correspondiente captación del financiamiento del Banco, determinará la aplicabilidad tanto:
+
+(a) de dichos eventos de interrupción y (b) de la tasa o el índice de reemplazo aplicable para determinar el monto apropiado a ser pagado por el Prestatario.
+
+###### Artículo 5
+
+13. Cancelación y reversión de la Conversión de Moneda. Si, luego de la fecha de suscripción del presente Contrato, se promulga, se emite o se produce un cambio en una ley, decreto u otra norma legal aplicable, o bien, se promulga, se emite o se produce un cambio en la interpretación de una ley, decreto u otra norma legal vigente al momento de la suscripción del presente Contrato, que, conforme el Banco razonablemente lo determine, le impida al Banco continuar manteniendo total o parcialmente su financiamiento en la Moneda Convertida por el plazo remanente y en los mismos términos de la Conversión de Moneda respectiva, el Prestatario, previa notificación por parte del Banco, tendrá la opción de redenominar a Dólares el Saldo Deudor objeto de la Conversión de Moneda a la tasa de cambio aplicable en ese momento, conforme ésta sea determinada por el Agente de Cálculo. Dicho Saldo Deudor quedará sujeto al Cronograma de Amortización que había sido acordado para dicha Conversión de Moneda y a la Tasa de Interés prevista en el Artículo 3.03(a) de estas Normas Generales. En su defecto, el Prestatario podrá pagar anticipadamente al Banco todas las sumas que adeude en la Moneda Convertida, de conformidad con lo previsto en el
+
+###### Artículo 3
+
+08 de estas Normas Generales.
+
+###### Artículo 5
+
+14. Ganancias o costos asociados a la redenominación a Dólares. En caso de que el Prestatario, con la anuencia del Garante, si lo hubiere, decida redenominar el Saldo Deudor objeto de una Conversión de Moneda a Dólares de acuerdo con lo previsto en el
+
+###### Artículo 5
+
+13 anterior, el Prestatario recibirá del Banco o, en su defecto, pagará al Banco, según sea el caso, los montos relativos a cualesquiera ganancias o costos determinados por el Agente de Cálculo, hasta la fecha de redenominación a Dólares, asociados con variaciones en las tasas de interés, dentro de un plazo de treinta (30) días a partir de la fecha de la redenominación. Cualquier ganancia asociada a dicha conversión a ser recibida por el Prestatario, será primeramente aplicada a cualquier monto vencido pendiente de pago al Banco por el Prestatario.
+
+###### Artículo 5
+
+15. Retraso en el pago en caso de Conversión de Moneda. El retraso en el pago de las sumas que el Prestatario adeude al Banco por capital, cualesquiera cargos financieros devengados con ocasión de una Conversión y cualesquiera primas pagaderas al Banco en virtud del Artículo 5.09 en Moneda distinta al Dólar, facultará al Banco a cobrar intereses a una tasa flotante en la Moneda Convertida determinada por el Agente de Cálculo, más un margen de 100 puntos básicos (1%) sobre el total de las sumas en atraso, sin perjuicio de la aplicación de cargos adicionales que aseguren un pleno traspaso de costos en la eventualidad de que dicho margen no sea suficiente para que el Banco recupere los costos incurridos a raíz de dicho atraso.
+
+###### Artículo 5
+
+16. Costos adicionales en caso de Conversiones. Si una acción u omisión del Prestatario o el Garante, si lo hubiere, incluyendo: (a) falta de pago en las fechas de vencimiento de montos de capital, intereses y comisiones relacionados con una Conversión;
+
+(b) revocación de o cambio en los términos contenidos en una Carta Solicitud de Conversión;
+
+(c) incumplimiento de un pago anticipado parcial o total del Saldo Deudor en la Moneda Convertida, previamente solicitado por el Prestatario por escrito; (d) un cambio en las leyes o regulaciones que tengan un impacto en el mantenimiento del total o una parte del Préstamo en los términos acordados de una Conversión; o (e) otras acciones no descritas anteriormente; resulta para el Banco en costos adicionales a los descritos en este Contrato, el Prestatario deberá pagar al Banco aquellas sumas, determinadas por el Agente de Cálculo, que aseguren un pleno traspaso de los costos incurridos.
+
+## CAPÍTULO VI — Ejecución del Proyecto
+
+###### Artículo 6
+
+01. Sistemas de gestión financiera y control interno. (a) El Prestatario se compromete a mantener o, en su caso, a que el Organismo Ejecutor y la Agencia de Contrataciones, si la hubiere, mantengan controles internos tendientes a asegurar razonablemente, que: (i) los recursos del Proyecto sean utilizados para los propósitos de este Contrato, con especial atención a los principios de economía y eficiencia; (ii) los activos del Proyecto sean adecuadamente salvaguardados; (iii) las transacciones, decisiones y actividades del Proyecto sean debidamente autorizadas y ejecutadas de acuerdo con las disposiciones de este Contrato y de cualquier otro contrato relacionado con el Proyecto; y (iv) las transacciones sean apropiadamente documentadas y sean registradas de forma que puedan producirse informes y reportes oportunos y confiables.
+
+(b) El Prestatario se compromete a mantener y a que el Organismo Ejecutor y la Agencia de Contrataciones, si la hubiere, mantengan un sistema de gestión financiera aceptable y confiable que permita oportunamente, en lo que concierne a lo s recursos del Proyecto: (i) la planificación financiera: (ii) el registro contable, presupuestario y financiero; (iii) la administración de contratos; (iv) la realización de pagos; y (v) la emisión de informes de auditoría financiera y de otros informes r elacionados con los recursos del Préstamo, del Aporte Local y de otras fuentes de financiamiento del Proyecto, si fuera el caso.
+
+(c) El Prestatario se compromete a conservar y a que el Organismo Ejecutor o la Agencia de Contrataciones, según corresponda, conserven los documentos y registros originales del Proyecto por un período mínimo de tres (3) años después del vencimiento del Plazo Original de Desembolsos o cualquiera de sus extensiones. Estos documentos y registros deberán ser adecuados para: (i) respaldar las actividades, decisiones y transacciones relativas al Proyecto, incluidos todos los gastos incurridos; y (ii) evidenciar la correlación de gastos incurridos con cargo al Préstamo con el respectivo desembolso efectuado por el Banco.
+
+(d) El Prestatario se compromete a incluir o, en su caso, a que el Organismo Ejecutor y la Agencia de Contrataciones, si la hubiere, incluyan, en los documentos de licitación, las solicitudes de propuestas y en los contratos financiados con recursos del Préstamo, que éstos respectivamente celebren, una disposición que exija a los proveedores de bienes o servicios, contratistas, subcontratistas, consultores y sus representantes, miembros del personal, subconsultores, subcontratistas, o concesionarios, que contraten, conse rvar los documentos y registros relacionados con actividades financiadas con recursos del Préstamo por un período de siete (7) años luego de terminado el trabajo contemplado en el respectivo contrato.
+
+###### Artículo 6
+
+02. Aporte Local. El Prestatario se compromete a contribuir o, en su caso, a que el Organismo Ejecutor contribuya, de forma oportuna el Aport e Local. Si a la fecha de aprobación del Préstamo por el Banco se hubiere determinado la necesidad de Aporte Local, el monto estimado de dicho Aporte Local se rá el que se estable cen las Estipuladles Especiales.
+
+La estimación o la ausencia de estimación del Aporte Local no implica una limitación o reducción de la obligación de aportar oportunamente todos los recursos adicionales que sean necesarios para la completa e ininterrumpida ejecución del Proyecto.
+
+###### Artículo 6
+
+03. Disposiciones generales sobre ejecución del Proyecto . (a) El Prestatario se compromete a ejecutar el Proyecto o, en su caso, a que el Organismo Ejecutor lo ejecute, de acuerdo con los objetivos del mismo, con la debida diligencia, en forma económica, financiera, administrativa y técnicamente eficiente y de acuerdo con las disposiciones de este Contrato y con los planes, especificaciones, calendario de inversiones, presupuestos, reglamentos y otros documentos pertinentes al Proyecto que el Banco apruebe. Asimismo, el Prestatario conviene en que todas las obligaciones a su cargo o, en su caso, a cargo del Organismo Ejecutor, deberán ser cumplidas a satisfacción del Banco.
+
+(b) Toda modificación imp ortante en los planes, especificaciones, calendario de inversiones, presupuestos, reglamentos y otros documentos que el Banco apruebe, y todo cambio sustancial en contratos financiados con recursos del Préstamo, requieren el consentimiento escrito del Banco.
+
+(c) En caso de contradicción o inconsistencia entre las disposiciones de este Contrato y cualquier plan, especificación, calendario de inversiones, presupuesto, reglamento u otro documento pertinente al Proyecto que el Banco apruebe, las disposiciones de este Contrato prevalecerán sobre dichos documentos.
+
+###### Artículo 6
+
+04. Selección y contratación de obras y servicios diferentes de Consultoría, adquisición de bienes y selección y contratación de servicios de consultoría.
+
+(a) Sujeto a lo dispuesto en el inciso (b) de este Artículo, el Prestatario se compromete a llevar a cabo o, en su caso, a que el Organismo Ejecutor y la Agencia de Contrataciones, si la hubiere, lleven a cabo la contratación de obras y servicios diferentes de consultoría, así como la adquisición de bienes, de acuerdo con lo estipulado en las Políticas de Adquisiciones y el Plan de Adquisiciones aprobado por el Banco, y la selección y contratación de servicios de consultoría, de acuerdo con lo estipulado en las Políticas de Consultores y el Plan de Adquisiciones aprobado por el Banco. El Prestatario declara conocer las Políticas de Adquisiciones y las Políticas de Consultores y, en su caso, se compromete a poner dichas Políticas en conocimiento del Organismo Ejecutor, y de la Agencia de Contrataciones.
+
+(b) Cuando el Banco haya evaluado de forma satisfactoria y considerado aceptables las normas, procedimientos y sistemas de adquisiciones del Prestatario o de una entidad del Prestatario, el Prestatario o, en su caso, el Organismo Ejecutor, podrá lleva r a cabo las adquisiciones y contrataciones financiadas total o parcialmente con recursos del Préstamo utilizando dichas normas, procedimientos y sistemas de adquisiciones de acuerdo con los términos de la evaluación del Banco y la legislación y procesos a plicables aceptados. Los términos de dicha aceptación serán notificados por escrito por el Banco al Prestatario y al Organismo Ejecutor. El uso de las normas, procedimientos y sistemas de adquisiciones del Prestatario o de una entidad del Prestatario podrá ser suspendido por el Banco cuando, a criterio de éste, se hayan suscitado cambios a los parámetros o prácticas con base en los cuales los mismos han sido aceptados por el Banco, y mientras el Ban co haya determinado si dichos cambios son compatibles con l as mejores prácticas internacionales. Durante dicha suspensión, se aplicarán las Políticas de Adquisiciones y las Políticas de Consultores del Banco. El Prestatario se compromete a comunicar o, en su caso, a que el Organismo Ejecutor comunique al Banco cualquier cambio en la legislación o procesos aplicables aceptados. El uso de las normas, procedimientos y sistemas de adquisiciones del Prestatario o de una entidad del Prestatario no dispensa la aplicación de las disposiciones previstas en la Sección I de las Políticas de Adquisiciones y de las Políticas de Consultores, incluyendo el requisito de que las adquisiciones y contrataciones correspondientes consten en el Pian de Adquisiciones y se sujeten a las demás condiciones de este Contrato. Las disposiciones de la Sección I de las Políticas de Adquisiciones y de las Políticas de Consultores se aplicarán a todos los contratos, independientemente de su monto o método de contratación. El Prestatario se compromete a incluir, o en su caso que el Organismo Ejecutor incluya en los documentos de licitación, los contratos, así como los instrumentos empleados en los sistemas electrónicos o de información (en soporte físico o electrónico), disposiciones destinadas a asegurar la aplicación de lo establecido en la Sección I de las Políticas de Adquisiciones y de las Políticas de Consultores, incluyendo las disposiciones de Prácticas Prohibidas.
+
+(c) El Prestatario se compromete a actualizar o, en su caso, a que el Organismo Ejecutor mantenga actualizado, el Plan de Adquisiciones y lo actualice, al menos, anualmente o con mayor frecuencia, según las necesidades del Proyecto. Cada versión actualizada de dicho Plan de Adquisiciones deberá ser sometida a la revisión y aprobación del Banco.
+
+(d) El Banco realizará la revisión d e los procesos de selección, contratación y adquisición, según lo establecido en el Plan de Adquisiciones. En cualquier momento durante la ejecución del Proyecto, el Banco podrá cambiar la modalidad de revisión de dichos procesos, informando previamente al Prestatario o al Organismo Ejecutor. Los cambios aprobados por el Banco deberán ser reflejados en el Plan de Adquisiciones.
+
+###### Artículo 6
+
+05. Utilización de bienes. Salvo autorización expresa del Banco, los bienes adquiridos con los recursos del Préstamo deberán utilizarse exclusivamente para los fines del Proyecto.
+
+###### Artículo 6
+
+06. Salvaguardias ambientales y sociales. (a) El Prestatario se compromete a llevar a cabo la ejecución (preparación, construcción y operación) de las actividades comprendidas en el Proyecto o, en su caso, a que el Organismo Ejecutor las lleve a cabo, en forma consistente con las políticas ambientales y sociales del Banco, según las disposiciones específicas sobre aspectos ambientales y sociales que se incluyan en las Estipulaciones Especiales de este Contrato.
+
+(b) El Prestatario se compromete a informar inmediatamente al Banco, o, en su caso, a que el Organismo Ejecutor informe al Banco, la o currencia de cualquier incumplimiento de los compromisos ambientales y sociales establecidos en las Estipulaciones Especiales.
+
+(c) El Prestatario se compromete a implementar o, de ser el caso, a que el Organismo Ejecutor implemente un plan de acción corr ectivo, acordado con el Banco, para mitigar, corregir y compensar las consecuencias adversas que puedan derivarse de incumplimientos en la implementación de los compromisos ambientales y sociales establecidos en las Estipulaciones Especiales.
+
+(d) El Prest atario se compromete a permitir que el Banco, por sí o mediante la contratación de servicios de consultoría, lleve a cabo actividades de supervisión, incluyendo auditorías ambientales y sociales del Proyecto, a fin de confirmar el cumplimiento de los compromisos ambientales y sociales incluidos en las Estipulaciones Especiales.
+
+###### Artículo 6
+
+07. Gastos inelegibles para el Pro yecto. En el evento que el Banco determine que un gasto efectuado no cumple con los requisitos para ser considerado un Gasto Elegible o Aporte Local, el Prestatario se compromete a tomar o, en su caso, a que el Organismo Ejecutor tome, las acciones necesarias pa ra rectificar la situación, según lo requerido por el Banco y sin perjuicio de las demás medidas previstas que el Banco pudiere ejercer en virtud de este Contrato.
+
+## CAPÍTULO VII — Supervisión y evaluación del Proyecto
+
+###### Artículo 7
+
+01. Inspecciones. (a) El Banco podrá establecer los procedimientos de inspección que juzgue necesarios para asegurar el desarrollo satisfactorio del Proyecto.
+
+(b) El Prestatario se compromete a permitir o, en su caso, a que el Organismo Ejecutor y la Agencia de Contratac iones, si la hubiere, permitan al Banco, sus investigadores, representantes, auditores o expertos contratados por el mismo, inspeccionar en cualquier momento el Proyecto, las instalaciones, el equipo y los materiales correspondientes, así como los sistemas, registros y documentos que el Banco estime pertinente conocer. Asimismo; e l Prestatario se compromete a que sus representantes o, en su caso, los representantes del Organismo Ejecutor y la Agencia de Contrataciones, si la hubiere, presten la más amplia colaboración a quienes el Banco envíe o designe para estos fines. Todos los costos relativos al transporte, remuneración y demás gastos correspondientes a estas inspecciones serán pagados por el Banco.
+
+(c) El Prestatario se compromete a propo rcionar o, en su caso, a que el Organismo Ejecutor y la Agencia de Contrataciones, si la hubiere, proporcionen al Banco la documentación relativa al Proyecto que el Banco solicite, en forma y tiempo satisfactorios para el Banco. Sin perjuicio de las medidas que el Banco pueda tomar en virtud del presente Contrato, en caso de que la documentación no esté disponible, el Prestatario se compromete a presentar o, en su caso, a que el Organismo Ejecutor y la Agencia de Contrataciones, si la hubiere, presente al B anco una declaración en la que consten las razones por las cuales la documentación solicitada no está disponible o está siendo retenida.
+
+(d) El Prestatario se compromete a incluir o. en su caso, a que el Organismo Ejecutor y la Agencia de Contrataciones, si la hubiere, incluyan, en los documentos: de licitación, las solicitudes de propuestas y convenios relacionados con la ejecución del Préstamo que el Prestatario, Organismo Ejecutor o Agencia de Contrataciones celebren, una disposición que:
+
+(i) permita a l Banco, a sus investigadores, representantes, auditores o expertos, revisar cuentas, registros y otros documentos relacionados con la presentación de propuestas y con el cumplimiento del contrato o convenio; y (ii) establezca que dichas cuentas, registros y documentos podrán ser sometidos al dictamen de auditores designados por el Banco.
+
+###### Artículo 7
+
+02. Planes e informes. Para permitir al Banco la supervisión del progreso en la ejecución del Proyecto y el alcance de sus resultados, el Prestatario se compromete a:
+
+(a) Presentar al Banco o, en su caso, a que el Organismo Ejecutor le presente, la información, los planes, informes y otros documentos, en la forma y con el contenido que el Banco razonablemente solicite basado en el progreso del Proyecto y su nivel de riesgo.
+
+(b) Cumplir y, en su caso, a que el Organismo Ejecutor cumpla, con las acciones y compromisos establecidos en dichos planes, informes y otros documentos acordados con el Banco.
+
+(c) Informar y, en su caso, a que el Organismo Ejecutor informe, al Banco cuando se identifiquen riesgos o se produzcan cambios significativos que impliquen o pudiesen implicar demoras o dificultades en la ejecución del Proyecto.
+
+(d) Informar y, en su caso, a que el Organismo Ejecutor informe, al Banco dentro de un plazo máximo de treinta (30) días de la iniciación de cualquier proceso, reclamo, demanda o acción judicial, arbitral o administrativo relacionado con el Proyecto, y mantener y, en su caso, a que el Organismo Ejecutor mantenga al Banco informado del estado de los mismos.
+
+###### Artículo 7
+
+03. Informes de Auditoría Financiera Externa y otros informes financieros. (a) Salvo que en las Estipulaciones Especiales se establezca lo contrario, el Prestatario se compromete a presentar al Banco o, en su caso, a que el Organismo Ejecutor presente al Banco, los informes de auditoría financiera externa y otros informes identificados en las Estipulaciones Especiales, dentro del plazo de ciento veinte (120) días, siguientes al cierre de cada ejercicio fiscal del Proyecto durante el Plazo Original de Desembolsos o sus extensiones, y dentro del plazo de ciento veinte (120) días siguientes a la fecha del último desembolso.
+
+(b) Adicionalmente, el Prestatario se compromete a presentar al Banco o, en su caso, a que el Organismo Ejecutor presente al Banco, otros informes financieros, en la forma, con el contenido y la frecuencia en que el Banco razonablemente les solicite durante la ejecución del Proyecto cuando, a juicio del Banco, el análisis del nivel de riesgo fiduciario, la complejidad y la naturaleza del Proyecto lo justifiquen.
+
+(c) Cualquier auditoría externa que se requiera en virtud de lo establecido en este Artículo y las disposiciones correspondientes de las Estipulaciones Especiales, deberá ser realizada por auditores externos previamente aceptados por el Banco o una entidad sup erior de fiscalización previamente aceptada por el Banco, de conformidad con estándares y principios de auditoría aceptables al Banco. El Prestatario autoriza y, en su caso, se compromete a que el Organismo Ejecutor autorice, a la entidad superior de fiscalización o a los auditores externos a proporcionar al Banco la información adicional que éste razonablemente pueda solicitarles, en relación con los informes de auditoría financiera externa.
+
+(d) El Prestatario se compromete a seleccionar y contratar o, en su caso, a que el Organismo Ejecutor seleccione y contrate, los auditores externos referidos en el literal (c) anterior, de conformidad con los procedimientos y los términos de referencia previamente acordados con el Banco. El Prestatario, además, se compromete a proporcionar o, en su caso, a que el Organismo Ejecutor proporcione al Banco la información relacionada con los auditores independientes contratados que éste le solicitare.
+
+(e) En el caso en que cualquier auditoría externa que se requiera en virtud de lo establecido en este Artículo y las disposiciones correspondientes de las Estipulaciones Especiales esté a carao de una entidad superior de fiscalización y ésta no pudiere efectuar su labor de acuerdo con requisitos satisfactorios al Banco o de ntro de los plazos, durante el período y con la frecuencia estipulados en este Contrato, el Prestatario o el Organismo Ejecutor, según corresponda, seleccionará y contratará los servicios de auditores externos aceptables al Banco, de conformidad con lo indicado en los incisos (c) y (d) de este Artículo.
+
+(f) Sin perjuicio de lo establecido en los incisos anteriores, el Banco, en forma excepcional, podrá seleccionar y contratar los servicios de auditores externos para auditar los informes de auditoría financiera previstos en el Contrato cuando: (i) del resultado del análisis de costo-beneficio efectuado por el Banco, se determine que los beneficios de que el Banco realice dicha contratación superen los costos; (ii) exista un acceso limitado a los servicios de auditoría externa en el país; o (iii) existan circunstancias especiales que justifiquen que el Banco seleccione y contrate dichos servicios.
+
+(g) El Banco se reserva el derecho de solicitar al Prestatario o al Organismo Ejecutor, según corresponda, la realización de auditorías externas diferentes de la financiera o trabajos relacionados con la auditoría de proyectos, del Organismo Ejecutor y de entidades relacionadas, del sistema de información financiera y de las cuentas banca rias del Proyecto, entre otras. La naturaleza, frecuencia, alcance, oportunidad, metodología, tipo de normas de auditoría aplicables, informes, procedimientos de selección de los auditores y términos de referencia para las auditorías serán establecidos de común acuerdo entre las Partes.
+
+## CAPÍTULO VIII — Suspensión de desembolsos, vencimiento anticipado y cancelaciones parciales
+
+###### Artículo 8
+
+01. Suspensión de desembolsos . El Banco, mediante notificación al Prestatario, podrá suspender los desembolsos, si surge y mientras subsista cualquiera de las circunstancias siguientes:
+
+(a) El retardo en el pago de las sumas que el Prestatario adeude al Banco por capital, comisiones, intereses, en la devolución de recursos del Préstamo utilizados para gastos no elegibles, o por cualquier otro concepto, con motivo de este Contrato o de cualquier otro contrato celebrado entre el Banco y el Prestatario, incluido otro Contralo. de Préstamo o un Contrato de Derivados.
+
+(b) El incumplimiento por parte del Garante, si lo hubiere, de cualquier obligación de pago estipulada en el Contrato de Garantía, en cualquier otro contrato suscrito entre el Garante, como Garante y el Banco o en cualquier Contrato de Derivados suscrito con el Banco.
+
+(c) El incumplimiento por parte del Prestatario, del Garante, si lo hubiere, o del Organismo Ejecutor, en su caso, de cualquier otra obligación estipulada en cualquier contrato suscrito con el Banco para financiar el Proyecto, incluido este Contrato, el Contrato de Garantía, o en cualquier Contrato de Derivados suscrito con el Banco, así como, en su caso, el incumplimiento por parte del Prestatario o del Organismo Ejecutor de cualquier contrato suscrito entre ésto s para la ejecución del Proyecto.
+
+(d) El retiro o suspensión como miembro del Banco del país en que el Proyecto debe ejecutarse.
+
+(e) Cuando, a juicio del Banco, el objetivo del Proyecto o el Préstamo pudieren ser afectados desfavorablemente o la ejecució n del Proyecto pudiere resultar improbable como consecuencia de: (i) cualquier restricción, modificación o alteración de las facultades legales, de las funciones o del patrimonio del Prestatario o del Organismo Ejecutor, en su caso; o (ii) cualquier modifi cación o enmienda de cualquier condición cumplida antes de la aprobación del Préstamo por el Banco, que hubiese sido efectuada sin la conformidad escrita del Banco.
+
+(f) Cualquier circunstancia extraordinaria que, a juicio del Banco: (i) haga improbable que el Prestatario, el Organismo Ejecutor o el Garante, en su caso, cumpla con las obligaciones establecidas en este Contrato o las obligaciones de hacer del Contrato de Garantía, respectivamente; o (ii) impida alcanzar los objetivos de desarrollo del Proyecto.
+
+(g) Cuando el Banco determine que un empleado, agente o representante del Prestatario o, en su caso, del Organismo Ejecutor o de la Agencia de Contrataciones, ha cometido una Práctica Prohibida en relación con el Proyecto.
+
+###### Artículo 8
+
+02. Vencimiento anticipado o cancelaciones de montos no desembolsados. El Banco, mediante notificación al Prestatario, podrá declarar vencida y pagadera de inmediato una parte o la totalidad del Préstamo, con los intereses, comisiones y cualesquiera otros cargos devengad os hasta la fecha del pago, y podrá cancelar la parte no desembolsada del Préstamo, si.
+
+(a) Alguna de las circunstancias previstas en los incisos (a), (b), (c) y (d) del Artículo anterior se prolongase más de sesenta (60) días.
+
+(b) Surge y mientras subsista cualquiera de las circunstancias previstas en los incisos
+
+(e) y (f) del Artículo anterior y el Prestatario o el Organismo Ejecutor, en su caso, no presenten al Banco aclaraciones o informaciones adicionales que el Banco considere necesarias.
+
+(c) El Banco determina que cualquier firma, entidad o individuo actuando como oferente o participando en una actividad financiada por el Banco incluidos, entre otros, solicitantes, oferentes, contratistas, empresas de consultoría y consultores individuales, mi embros del personal, subcontra tistas, subconsultores, proveedores de bienes o servicios, concesionarios, intermediarios financieros u Organismo Contratante (incluidos sus respectivos funcionarios, empleados y representantes, ya sean sus atribuciones expres as o implícitas) ha cometido una Práctica Prohibida en relación con el Proyecto sin que el Prestatario o, en su caso, el Organismo Ejecutor o la Agencia de Contrataciones, hayan tomado las medidas correctivas adecuadas (incluida la notificación adecuada al Banco tras tener conocimiento de la comisión de la Práctica Prohibida) en un plazo que el Banco considere razonable.
+
+(d) El Banco, en cualquier momento, determina que una adquisición de bienes o una contratación de obra o de servicios diferentes de consultoría o servicios de consultoría se llevó a cabo sin seguir los procedimientos indicados en este Contrato. En este caso, la declaración de cancelación o de vencimiento anticipado corresponderá a la parte del Préstamo destinada a dicha adquisición o contratación.
+
+###### Artículo 8
+
+03. Disposiciones no afectadas. La aplicación de las medidas establecidas en este Capítulo no afectará las obligaciones del Prestatario establecidas en este Contrato, las cuales quedarán en pleno vigor, salvo en el caso de vencimiento anticipado de la totalidad del Préstamo, en cuyo caso sólo quedarán vigentes las obligaciones pecuniarias del Prestatario.
+
+###### Artículo 8
+
+04. Desembolsos no afectados . No obstante lo dispuesto en los Artículos 8.01 y 8.02 precedentes, ninguna de las medidas previstas en este Capítulo afectará el desembolso por parte del Banco de los recursos del Préstamo que: (a) se encuentren suje tos a la garantía de reembolso de una carta de crédito irrevocable; (b) el Banco se haya comprometido específicamente por escrito con el Prestatario o, en su caso, el Organismo Ejecutor o la Agencia de Contrataciones, para pagar Gastos Elegibles directamen te al respectivo proveedor, salvo que el Banco haya notificado al Prestatario u Organismo Ejecutor, según lo dispuesto en el Artículo 4.08(c) de estas Normas Generales: y (c) sean para pagar al Banco, conforme a las instrucciones del Prestatario.
+
+## CAPÍTULO IX — Prácticas Prohibidas
+
+###### Artículo 9
+
+01. Prácticas Prohibidas . (a) En adición a lo establecido en los Artículos 8.01 (g) y 8.02(c) de estas Normas Generales, si el Banco determina que cualquier firma, entidad o individuo actuando como oferente o participando en una actividad financiada por el Banco incluidos, entre otros, solicitantes, oferentes, contratistas, empresas de consultoría y consultores individuales, miembros del personal, subcontratistas, subconsultores, proveedores de bienes o servicios, concesionarios, intermediarios financieros u Organismo Contratante (incluidos sus respectivos funcionarios, empleados y representantes, ya sean sus atribuciones expresas o implícitas) ha cometido una práctica Prohibida en relación con la ejecución del Proyecto, podrá tomar las siguientes medidas, entre otras:
+
+(i) Negarse a financiar los contratos para la adquisición de bienes o la contratación de obras, servicios de consultoría o servicios diferentes de consultoría. (ii) Declarar una contratación no elegible para financiamiento del Banco cuando exista evidencia de que el representante del Prestatario o, en su caso, el Organismo Ejecutor u Organismo Contratante no ha tomado las medidas correctivas adecuadas (lo que incluye, entre otras cosas, la notificación adecuada al Banco tras tener conocimiento de la comisión de la Práctica Prohibida) en un plazo que el Banco considere razonable. (iii) Emitir una amonestación a la firma, entidad o individuo que haya encontrado responsable de la Práctica Prohibida, en formato de una carta formal de censura por su conducta. (iv) Declarar a la firma, entidad o individuo que haya encontrado responsable de la Práctica Prohibida, inelegible, en forma permanente o temporal, para participar en actividades financiadas por el Banco, ya sea directamente como contratista o proveedor o, indirectamente, en calidad de subconsultor, subcontratista o proveedor de bienes, servicios de consultoría o servicios diferentes de consultoría.
+
+(v) Remitir el tema a las autoridades pertinentes encargadas de hacer cumplir las leyes. (vi) Imponer multas que representen para el Banco un reembolso de los costos vinculados con las investigaciones y actuaciones.
+
+(b) Lo dispuesto en el Artículo 8.01 (g) y en el Artículo 9.01 (a)(i) se aplicará también en casos en los que se haya suspendido temporalmente la elegibilidad de la Agencia de Contrataciones, de cualquier firma, entidad o individuo actuando como oferente o participando en una actividad financiada por el Banco incluido, entre otros, solicitantes, oferentes, contratistas, empresas de consultoría y consultores individuales, miembros del personal, subcontratistas, subconsultores, proveedores de bienes o servicios, concesionarios (incluidos sus respectivos funcionarios, empleados, representantes, ya sean sus atribuciones expresas o implícitas) para participar de una licitación u otro proceso de selección para la adjudicación de nuevos contratos en espera de que se adopte una decisión definitiva en relación con una investigación de una Práctica Prohibida.
+
+(c) La imposición de cualquier medida que sea tomada por el Banco de conformidad con las disposiciones referidas anteriormente podrá ser de carácter público.
+
+(d) Cualquier firma, entidad o individuo actuando como oferen te o participando en una actividad financiada por el Banco incluido, entre otros, solicitantes contratistas, empresas de consultoría y consultores in dividuales, miembr os del personal, sub contratistas, subconsultores, proveedores de bienes o servicios, concesionarios u Organismo Contratante (incluidos sus respectivos funcionarios, empleados, representantes ya sean sus atribuciones expresas o implícitas) podrán ser sancionados por el Banco de conformidad con lo dispuesto en acuerdos suscritos entre el Banco y otras instituciones financieras internacionales concernientes al reconocimiento recíproco de decisiones en materia de inhabilitación. Para efectos de lo dispuesto en este literal (d), “sanción” incluye toda inhabilitación permanente o temporal, imposición de condiciones para la participación en futuros contratos o adopción pública de medidas en respuesta a una contravención del marco vigente de una in stitución financiera internacional aplicable a la resolución de denuncias de comisión de Prácticas Prohibidas.
+
+(e) Cuando el Prestatario adquiera bienes o contrate obras o servicios diferentes de consultoría directamente de una agencia especializada en e l marco de un acuerdo entre el Prestatario y dicha agencia especializada, todas las disposiciones contempladas en este Contrato relativas a sanciones y Prácticas Prohibidas se aplicarán íntegramente a los solicitantes, oferentes, proveedores de bienes y su s representantes, contratistas, consultores, miembros del personal, subcontratistas, subconsultores. proveedores de servicios, concesionarios (incluidos sus respectivos funcionarios, empleados y representantes, ya sean sus atribuciones expresas o implícita s) o cualquier otra entidad que haya suscrito contratos con dicha agencia especializada para la provisión de bienes, obras o servicios distintos de los servicios de consultoría en conexión con actividades financiadas por el Banco. El Prestatario se compromete a adoptar o en su caso, que el Organismo Ejecutor adopte, en caso de que sea requerido por el Banco, recursos tale s como la suspensión o la rescisión del contrato correspondiente. El Prestatario se compromete a que los contratos que suscriba con agencias especializadas incluirán disposiciones requiriendo que éstas conozcan la lista de firmas e individuos declarados inelegibles de forma temporal o permanente por el Banco para participar de una adquisición o contratación financiada total o parcialmente con recursos del Préstamo. En caso de que una agencia especializada suscriba un contrato o una orden de compra con una firma o individuo declarado inelegible de forma temporal o permanente por el Banco en la forma indicada en este Artículo, el Banco no financiará tales contratos o gastos y se acogerá a otras medidas que considere convenientes.
+
+## CAPÍTULO X — Disposición sobre gravámenes v exenciones
+
+###### Artículo 10
+
+01. Compromiso sobre gravámenes . El Prestatario se compromete a no constituir ningún gravamen específico sobre todo o parte de sus bienes o rentas como garantía de una deuda externa sin constituir, al mismo tiempo, un gravamen que garantice al Banco, en un pie de igualdad y proporcionalmente, el cumplimiento de las obligaciones pecuniarias derivadas de este Contrato. La anterior disposición no se aplicará: (a) a los gravámenes constituidos sobre bienes, para asegurar el pago del saldo insoluto de su precio de adquisición; y (b) a los cons tituidos con motivo de operaciones bancarias para garantizar el pago de obligaciones cuyos vencimientos no excedan de un año de plazo. En caso de que el Prestatario sea un país miembro, la exp resión “bienes o rentas ” se refiere a toda clase de bienes o rentas que pertenezcan al Prestatario o a cualquiera de sus dependencias que no sean entidades autónomas con patrimonio propio.
+
+###### Artículo 10
+
+02. Exención de impuestos. El Prestatario se compromete a que el capital, los intereses, comisiones, primas y todo ot ro cargo del Préstamo, así como cualquier otro pago por gastos o costos que se hubieren originado en el marco de este Contrato, se pagarán sin deducción ni restricción alguna, libres de todo impuesto, tasa, derecho o recargo que establezcan o pudieran esta blecer las leyes de su país y a hacerse cargo de todo impuesto, tasa o derecho aplicable a la celebración, inscripción y ejecución de este Contrato.
+
+## CAPÍTULO XI — Disposiciones varias
+
+###### Artículo 11
+
+01. Cesión de derechos . (a) El Banco podrá ceder a otras instituciones públicas o privadas, a título de participaciones, los derechos correspondientes a las obligaciones pecuniarias del Prestatario provenientes de este Contrato. El Banco notificará inmediatamente al Prestatario sobre cada cesión.
+
+(b) El Banco podrá ceder participaciones en relación con saldos desembolsados o saldos que estén pendientes de desembolso en el momento de celebrarse el acuerdo de participación.
+
+(c) El Banco podrá, con la previa conformidad del Prestatario y del Garante, si lo hubiere, ceder, en todo o en parte, el saldo no desembolsado del Préstamo a otras instituciones públicas o privadas. A tales efectos, la parte sujeta a cesión será denominada en términos de un número fijo de unidades de la Moneda de Aprobación o de unidades de Dólares. Igualmente, y previa conformidad del Prestatario, y del Garante, si lo hubiere, el Banco podrá establecer para dicha parte sujeta a cesión, una tasa de interés diferente a la establecida en el presente Contrato.
+
+###### Artículo 11
+
+02. Modificaciones y dispensas contractuales. Cualquier modificación o dispensa a las disposiciones de este Contrato deberá ser acordada por escrito entre las Partes, y contar con la anuencia del Garante, si lo hubiere y en lo que fuere aplicable.
+
+###### Artículo 11
+
+03. No renuncia de derechos . El retardo o el no ejercicio por parte del Banco de los derechos acordados en este Contrato no podrá ser interpretado como renuncia a tales derechos, ni como una aceptación tácita de hechos, acciones o circunstan cias habilitantes de su ejercicio.
+
+###### Artículo 11
+
+04. Extinción. (a) El pago total del capital, intereses, comisiones, primas y todo otro cargo del Préstamo, así como de los demás gastos, costos y pagos que se hubieren originado en el marco de este Contrato, dará por concluido el Contrato y todas las obligaciones que de él se deriven, con excepción de aquéllas referidas en el inciso (b) de este Artículo.
+
+(b) Las obligaciones que el Prestatario adquiere en virtud de este Contrato en materia de Prácticas Prohibidas y otras obligaciones relacionadas con las políticas operativas del Banco, permanecerán vigentes hasta que dichas obligaciones hayan sido cumplidas a satisfacción del Banco.
+
+###### Artículo 11
+
+05. Validez. Los derechos y obligaciones establecidos en el Contrato son válidos y exigibles, de conformidad con los términos en él convenidos, sin relación a legislación de país determinado.
+
+###### Artículo 11
+
+06. Divulgación de información. El Banco podrá divulgar este Contrato y cualquier información relacionada con el mismo de acuerdo con su política de acceso a información vigente al momento de dicha divulgación.
+
+## CAPÍTULO XII — Procedimiento arbitral
+
+###### Artículo 12
+
+01. Composición del tribunal. (a) El tribunal de arbitraje se compondrá de tres miembros, que serán designados en la forma siguiente: uno, por el Banco; otro, por el Prestatario, y un tercero, en adelante denominado el “Presidente”, por acuerdo directo entre las Partes, o por intermedio de los respectivos árbitros. El Presidente del tribunal tendrá doble voto en caso de impasse en todas las decisiones. Si las Partes o los árbitros no se pusieren de acuerdo respecto de la persona del Presidente, o si una de las Partes no pudiera designar árbitro, el Presidente será designado, a petición de cualquiera de las Partes, por el Secretario General de la Organización de los Estados Americanos. Si una de las Partes no designare árbitro, éste será designado po r el Presiden te. Si alguno de los árbitros designados o el Presidente no quisiere o no pudiere actuar o seguir actuando, se procederá a su reemplazo en igual forma que para la designación original. El sucesor tendrá las mismas funciones que el antecesor.
+
+(b) En toda c ontroversia, tanto el Prestatario como el Garante serán considerados como una sola parte y, por consiguiente, tanto para la designación del árbitro como para los demás efectos del arbitraje, deberán actuar conjuntamente.
+
+###### Artículo 12
+
+02. Iniciación del pro cedimiento. Para someter la controversia al procedimiento de arbitraje, la parte reclamante dirigirá a la otra una notificación escrita, exponiendo la naturaleza del reclamo, la satisfacción o reparación que persigue y el nombre del árbitro que designa. La parte que hubiere recibido dicha notificación deberá, dentro del plazo de cuarenta y cinco (45) días, notificar a la parte contraria el nombre de la persona que designe como árbitro. Si dentro del plazo de setenta y cinco (75) días, contado desde la notificación de iniciación del procedimiento de arbitraje, las partes no se hubieren puesto de acuerdo en cuanto a la persona del Presidente, cualquiera de ellas podrá recurrir ante el Secretario General de la Organización de los Estados Americanos para que éste proceda a la designación.
+
+###### Artículo 12
+
+03. Constitución del tribunal . El tribunal de arbitraje se constituirá en Washington, Distrito de Columbia, Estados Unidos de América, en la fecha que el Presidente designe y, constituido, funcionará en las fechas que fije el propio tribunal.
+
+###### Artículo 12
+
+04. Procedimiento. (a) El tribunal queda especialmente facultado para resolver todo asunto relacionado con su competencia y adoptará su propio procedimiento. En todo caso, deberá conceder a las Partes la oportunidad de presentar exposiciones en audiencia. Todas las decisiones del tribunal se tomarán por la mayoría de votos.
+
+(b) El tribunal fallará con base a los términos del Contrato y pronunciará su fallo aun en el caso de que alguna de las Partes actúe en rebeldía.
+
+(c) El fallo se hará constar por escrito y se adoptará con el voto concurrente de, al menos, dos (2) miembros del tribunal. Dicho fallo deberá dictarse dentro del plazo aproximado de sesenta (60) días, contado a partir de la fecha del nombr amiento del Presidente, a menos que el tribunal determine que, por circunstancias especiales e imprevistas, deba ampliarse dicho plazo. El fallo será notificado a las partes mediante notificación suscrita, cuanto menos, por dos (2) miembros del tribunal y deberá cumplirse dentro del plazo de treinta (30) días, contado a partir de la fecha de la notificación. Dicho fallo tendrá mérito ejecutivo y no admitirá recurso alguno.
+
+###### Artículo 12
+
+05. Gastos. Los honorarios de cada árbitro y los gastos del arbitraje, con la excepción de los costos de abogado y costos de otros expertos, que serán cubiertos por las partes que los hayan designado, serán cubiertos por ambas partes en igual proporción. Toda duda en relación con la división de los gastos o con la forma en que deban pagarse será resuelta por el tribunal, sin ulterior recurso.
+
+###### Artículo 12
+
+06. Notificaciones. Toda notificación relativa al arbitraje o al fallo será hecha en la forma prevista en este Contrato. Las partes renuncian a cualquier otra forma de notificación. _________________________________________________________________________ LEG/SGO/CID/EZSHARE-1818689733-7204 ANEXO ÚNICO EL PROGRAMA Programa de Rehabilitación y Ampliación del Puerto de Manzanillo
+
+I. Objetivo 1.01 El objetivo general del Programa es contribuir a mejorar la competitividad y el crecimiento socioeconómico de la zona norte del país, mediante la provisión de infraestructura portuaria y logística adecuada. Los objetivos específicos son: (i) reducción de costos y tiempos de t ransporte de la carga con origen/destino en el norte del país; y (ii) incremento en el movimiento total de carga (toneladas) y de contenedores (TEUs) por Manzanillo.
+
+II. Descripción 2.01 Para alcanzar el objetivo indicado en el párrafo 1.01 anterior, el Programa comprende los siguientes componentes:
+
+Componente I. Inversiones portuarias 2.02 Bajo este componente se financiará: (i) la construcción de un muelle e instalaciones accesorias para operar carga contenerizada, reefers (contenedores refrigerados) de fruta, graneles y cargas generales: (ii) la rehabilitación de infraestructura básica del área logística con una explanada para acopio en tierra con una superficie de aproximadamente 200.000 m2, y 1.000 m2 de edificios para c ontrol de acceso, administración, marina y bomberos; (iii) vialidad interna y seguridad perimetral de la terminal logística; (iv) sistemas tecnológicos de amarre asistido y atraque de buques, gerenciamiento del acceso a las instalaciones portuarias de vehículos pesados y equipos de balizamiento automáticos controladas por satélite; y (v) supervisión de las obras. Componente II. Inversiones de conectividad y mejora en vías 2.03 Bajo este componente se financiará, la rehabilitación y el mejoramiento de: (i ) la Autopista Duarte (RD -1), tramo Navarrete - Montecristi (90,6 km); la intervención utilizará la plataforma existente, no previendo ajustes en la geometría, y contempla la sustitución de obras de drenaje, fresado, bacheo y repavimentación, rehabilitación de cunetas y reforzamiento de estructuras y puentes, incluyendo altos estándares de seguridad vial (iluminación, señalización, reductores de velocidad, accesos urbanos) producto de la aplicación del International Road Assessment Programme (iRAP); (ii) mejoramiento de la RD -20, tramo Palo Verde - Laguna Verde (9,0 km) ; estas obras incluirán trabajos de plataforma, reperfilamiento, cunetas, obras de drenaje y tratamiento superficial de modo a garantizar su estabilidad; y (iii) supervisión de las obras. Ambos proyectos incluyen en sus diseños medidas de resiliencia para mitigar riesgos de desastres y cambio climático y estándares de accesibilidad universal en accesos urbanos.
+
+Componente III. Fortalecimiento de la conectividad logística y gestión portuaria 2.04 Bajo este componente se financiará: (i) estudios de factibilidad y diseños de ingeniería a detalle; (ii) aplicación de la metodología de seguridad vial iRAP a la red pavimentada del país; (iii) la elaboración del Plan Maestro de desarrollo de la term inal logística de Manzanillo, incluyendo lineamientos de género y diversidad; (iv) la elaboración de una reglamentación para la administración y operación para la terminal logística de Manzanillo bajo un modelo landlord, a que se refiere la Cláusula 4.07 d e las Estipulaciones Especiales de este Contrato; (v) sistemas informatizados de gestión vial, portuaria y análisis de datos de procesos licitatorios; (vi) vehículos eléctricos para supervisión y/o atención en carretera; (vii) programa de capacitación con participación paritaria entre hombres y mujeres en la fuerza laboral de los sectores construcción, portuario y logístico; y (viii) talleres para fomentar el acceso de personas con discapacidad en la construcción y operación de la terminal logística y proyectos viales. Componente IV. Aspectos socioambientales y de resiliencia climática 2.05 Bajo este componente se financiará: (i) los programas de gestión socioambiental para la construcción y operación de la terminal logística descrita en el Componente 1, y de rehabilitación de las carreteras descritas en el Componente II; y (ii) desarrollo y puesta en marcha del Plan de gestión de riesgo de desastres del Programa, cuyas acciones y sus subactividades se detallan en el Plan de Gestión Ambiental y Social (PGA S) y el Informe de Gestión Ambiental y Social (IGAS) del Programa.
+
+Apoyo a la administración del Programa 2.06 Se financiará: (i) el costo de la coordinación de la ejecución del Programa, incluyendo los salarios de personal técnico multidisciplinar de planta de la unidad ejecutora que estará dedicado al Programa; (ii) gastos operativos y administrativos; y (iii) la auditoría del Programa.
+
+III. Plan de financiamiento 3.01 La distribución de los recursos del Préstamo se resume en el cuadro siguiente: Costo y financiamiento (en millones de US$) Componentes Banco % Componente 1. Inversiones portuarias 46,000 46,000 Rehabilitación muelle y construcción terminal logística off shore - Puerto de Manzanillo 43,360 43,360 Supervisión de obras 2,640 2,640 Componente II. Inversiones de conectividad y mejora en vías 42,325 42,325 Rehabilitación y mejoramiento Autopista Duarte - Tramo Navarrete - Montecristi 36,830 36,830 Rehabilitación Tramo Palo Verde - Laguna Verde 3,749 3,749 Supervisión de obras 1,746 1,746 Componente III. Fortalecimiento de la conectividad logística y gestión portuaria 6,000 6,000 Componente IV. Aspectos socioambientales y de resiliencia climática 4,000 4,000 Apoyo a la administración del programa 1,675 1,675 Total 100,0 100,0 3.02 La distribución por componentes podrá modificarse por acuerdo escrito entre las Partes, siempre que no alteren los objetivos del Programa, utilizando el plan financiero y demás instrumentos de gestión descritos en este Contrato.
+
+IV. Ejecución 4.01 El Organismo Ejecutor actuará por intermedio de la Unidad Ejecutora de Proyectos Financiados con Recursos Externos (UEPFRE), utilizando un equipo técnico de planta con el que cuenta en cada una de las distintas disciplinas requeridas, y que parar la ejecución del Programa será complementado con: (i) un ingeniero estructural; (ii) un ingeniero hidráulico; (iii) un coordinador de supervisión; (iv) tres (3) ingenieros supervisores; (v) un especialista en planificación; (vi) un experto en inform ática con conocimiento en base de datos con sistemas de información; (vii) un ingeniero de cubicaciones; (viií) un ingeniero experto en pavimentos; (ix) un especialista en seguridad vial; y (x) apoyo administrativo, de acuerdo a las necesidades que marque la ejecución del Programa. 4.02 Para la ejecución del Programa se contará con el apoyo técnico de la Autoridad Portuaria Dominicana (APORDOM) para las actividades portuarias previstas en los Componentes I, III y IV para lo cual se suscribirá el convenio a que hace referencia la Cláusula 3.02 de las Estipulaciones Especiales de este Contrato. 4.03 Las funciones y responsabilidades de la UEPFRE en la ejecución de l Programa incluyen: (i) planificar, coordinar, dirigir y evaluar la ejecución de obras; (ii) formular el plan operativo y la formulación del presupuesto anual; (iii) mantener adecuados controles y registros contables y financieros; (iv) coordinar las gestiones de los recursos de desembolsos ante el B anco; (v) elaborar y proponer las bases de concursos y licitaciones, dando conformidad a estudios y expedientes técnicos; (vi) implementar y operacionalizar acciones de seguimiento y monitoreo del Programa: y (vii) preparar y remitir al Banco los informes financieros, de ejecución y los estados financieros auditados previstos en este contrato. 4.04 Para la ejecución del Programa se contará con un Reglamento Operativo, el mismo que deberá incluir, entre otras cosas: (i) los flujos de trabajo y controles internos detallando los requisitos y procedimientos aplicables en la ejecución del Programa; (ii) la forma en que se notificará cualquier cambio sustancial a los Planes Ambientales, Sociales y de Salud y Seguridad debiendo ser esta por escrito y aprobado por el Banco; (iii) el detalle del procedimiento en que el Prestatario notificará al Banco por escrito y dentro de los diez (10) días siguientes a su ocurrencia sobre cualquier circunstancia a que se refiere el Artículo 6.06 de las Normas Generales y en cada c aso dicha notificación incluirá acciones tomadas o propuestas con respecto a tales eventos; (iv) el detalle de lo que deben contener los Informe de Cumplimiento Ambiental, Social y de Salud y Seguridad, a que se refiere la Cláusula 4.05(i) de las Estipulac iones Especiales de este Contrato.
+
+Dada en la Sala de Sesiones de la Cámara de Diputados, Palacio del Congreso Nacional, en Santo Domingo de Guzmán, Distrito Nacional, capital de la República Dominicana, a los veintinueve (29) días del mes de julio del año dos mil veintiuno (2021); años 178 de la Independencia y 158 de la Restauración.
+
+Alfredo Pacheco Osoria Presidente Nelsa Shoraya Suárez Ariza Agustín Burgos Tejada Secretaria Secretario Dada en la Sala de Sesiones del Senado, Palacio del Congreso Nacional, en Santo Domingo de Guzmán, Distrito Nacional, capital de la República Dominicana, a los cinco (05) días del mes de octubre del año dos mil veintiuno (2021); años 178 de la Independencia y 15 9 de la Restauración.
+
+Eduardo Estrella Presidente Ginette Bournigal de Jiménez Faride Virginia Raful Soriano Secretaria Secretaria Ad Hoc LUIS ABINADER Presidente de la República Dominicana En ejercicio de las atribuciones que me confiere el artículo 128 de la Constitución de la República.
+
+PROMULGO la presente Resolución y mando que sea publicada en la Gaceta Oficial, para su conocimiento y ejecución.
+
+DADA en Santo Domingo de Guzmán, Distrito Nacional, capital de la República Dominicana, a los ocho (8) días del mes de octubre del año dos mil veintiuno (2021); año 178 de la Independencia y 159 de la Restauración.
+
+LUIS ABINADER
