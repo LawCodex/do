@@ -142,6 +142,10 @@ def is_caps(s):
     return len(letters) >= 3 and sum(c.isupper() for c in letters) / len(letters) > 0.85
 
 
+# a caption (sumilla) does not end with a function word; a wrapped sentence often does
+STOPWORDS = {"de", "del", "la", "el", "los", "las", "y", "e", "o", "u", "en", "a", "al", "que", "por", "con", "para",
+             "se", "su", "sus", "un", "una", "lo", "como", "sin", "sobre", "entre", "cuando", "no", "es", "son", "ser"}
+
 RANK = {"PARTE": 1, "LIBRO": 2, "SECCION": 3, "TITULO": 4, "SUBTITULO": 4.5, "CAPITULO": 5,
         "SUBCAPITULO": 6, "SUBSECCION": 6.5}
 
@@ -158,6 +162,7 @@ class Builder:
         self.last_heading = None
         self.open = {}
         self.sec_inside = [0, 0]
+        self.sec_tit = 0
         self.has_disp = False
 
     def flush(self):
@@ -178,7 +183,12 @@ class Builder:
         if kind == "DISP":
             self.has_disp = True
         if kind == "SECCION":
-            self.sec_inside[1 if self.open.get("CAPITULO") else 0] += 1
+            if self.open.get("CAPITULO"):
+                self.sec_inside[1] += 1
+            elif self.open.get("TITULO"):
+                self.sec_tit += 1
+            else:
+                self.sec_inside[0] += 1
         elif r:
             for k in list(self.open):
                 if RANK.get(k, 0) >= r:
@@ -190,8 +200,11 @@ class Builder:
     def finish(self):
         self.flush()
         rank = dict(RANK)
-        if self.sec_inside[1] > self.sec_inside[0]:
+        top, in_cap, in_tit = self.sec_inside[0], self.sec_inside[1], self.sec_tit
+        if in_cap > top and in_cap >= in_tit:
             rank["SECCION"] = 5.5
+        elif in_tit > top:
+            rank["SECCION"] = 4.7
         used = sorted({rank[k] for k, _ in (o for o in self.out if isinstance(o, tuple)) if k in rank})
         lvl = {r: min(2 + i, self.max_level) for i, r in enumerate(used)}
         res = []
@@ -281,6 +294,7 @@ def lines_to_md(pages_lines, article_word="Artículo"):
                 last_num[0] = int(num)
             nxt_line = lines[i + 1].strip() if i + 1 < n else ""
             if rest and len(rest) < 90 and not rest.endswith((".", ":", ";", ",")) and not re.search(r"[.:;]\s+\S", rest) \
+                    and rest.split()[-1].lower() not in STOPWORDS \
                     and nxt_line[:1].isupper() and not RE_ART.match(nxt_line) and not RE_DIV.match(nxt_line):
                 b.article(f"{article_word} {num}. {rest}", "")
             else:
